@@ -1,0 +1,3457 @@
+{
+    "0": {
+        "URL": [
+            "https://i.pinimg.com/474x/00/d5/e9/00d5e92cd75aaa87b24ab3fff3ef9e10.jpg"
+        ],
+        "Image path": [
+            "fea128d4-bab4-4c2c-9ee0-faaee9091627.png"
+        ],
+        "Question": "Do the foreground and background look consistent? Why?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "1": {
+        "URL": [
+            "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/02/07/09/barnes-noble.jpg?quality=75&width=990&crop=3%3A2%2Csmart&auto=webp"
+        ],
+        "Image path": [
+            "4badc7e5-7713-447e-aa7f-b94164650279.png"
+        ],
+        "Question": "If I want to read a Shakespearean tragedy, which book in the image should I pick?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "5": {
+        "URL": [
+            "https://i.pinimg.com/564x/50/4d/98/504d98f9db48f95eacfa67efdb126aa8.jpg"
+        ],
+        "Image path": [
+            "3aa39c3c-1d8b-4b2a-b883-138d2b52e69d.png"
+        ],
+        "Question": "If I like paintings with religious theme, which one is more suitable for my personal preference?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "6": {
+        "URL": [
+            "https://i.pinimg.com/564x/1a/37/67/1a3767d9a5ddf53ec0ee7d4745b4215f.jpg"
+        ],
+        "Image path": [
+            "7a775b8e-58b9-4fcf-bacf-4ab6ab2459ad.png"
+        ],
+        "Question": "If I'm observing Mars, which celestial body am I looking at?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "7": {
+        "URL": [
+            "https://i.pinimg.com/474x/53/d7/d2/53d7d2f33be85c9817f5a0dd5ecd3fb9.jpg"
+        ],
+        "Image path": [
+            "b2495210-2438-4435-8d48-28acb6b0bc8e.png"
+        ],
+        "Question": " If I want to harvest grapes for winemaking, which section of the digital farmland should I focus on?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "9": {
+        "URL": [
+            "https://i.pinimg.com/564x/1c/15/33/1c1533886299c29011c40e9490a14006.jpg"
+        ],
+        "Image path": [
+            "fc5f1144-dd74-4914-a577-60ec73399965.png"
+        ],
+        "Question": "Who could be the favorite artist of owner of the room?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "11": {
+        "URL": [
+            "https://i.pinimg.com/474x/f8/f0/ed/f8f0edc183e24e2084bd36316ff9c875.jpg"
+        ],
+        "Image path": [
+            "c0d40ebd-ab23-4f58-bbcb-265249fa2b3e.png"
+        ],
+        "Question": "What advanced method is being utilized in the image?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "12": {
+        "URL": [
+            "https://i.pinimg.com/564x/2f/d6/b8/2fd6b861733a1e0e5b7c1e0db49a0b15.jpg"
+        ],
+        "Image path": [
+            "7d68a85d-98db-45e2-bf2a-91d44751a834.png"
+        ],
+        "Question": "What is the style of the oldest architecture in this image?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "13": {
+        "URL": [
+            "https://i.pinimg.com/564x/9e/d2/fb/9ed2fb69b9a4df4343ef1a0b83da10e7.jpg",
+            "https://i.pinimg.com/474x/f9/f6/4f/f9f64fb447c560805641ee1f0474c29a.jpg"
+        ],
+        "Image path": [
+            "9ed2fb69b9a4df4343ef1a0b83da10e7.jpg",
+            "f9f64fb447c560805641ee1f0474c29a.jpg"
+        ],
+        "Question": "If I prefer a solitary atmosphere, which of the two places should I choose based on the provided images?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "14": {
+        "URL": [
+            "https://i.pinimg.com/474x/08/4e/4e/084e4e9d07925f7fd9cb7c415890a0d5.jpg",
+            "https://i.pinimg.com/236x/eb/be/34/ebbe3410cd8a19b3743f33165e55b956.jpg"
+        ],
+        "Image path": [
+            "918eb31d-6ca0-40fb-822f-4826eff5e4b7.png",
+            "0d29e87e-fbce-4a51-a2fb-81fa8b53512b.png"
+        ],
+        "Question": "I live in Alaska and want to find a place far away from me to spend my Christmas holiday. Which place in above scenes would I probably choose?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "15": {
+        "URL": [
+            "https://i.pinimg.com/474x/e2/f1/e9/e2f1e9f25071f8ba80478166d18d735b.jpg"
+        ],
+        "Image path": [
+            "2931eb20-e875-4558-bb85-2fb0d7d1b389.png"
+        ],
+        "Question": "What does 'they' refer to in the context of the image?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "16": {
+        "URL": [
+            "https://i.pinimg.com/474x/8d/f1/96/8df1966909de7ae6a73d4a7ecdaf9924.jpg"
+        ],
+        "Image path": [
+            "400e607b-8043-4a91-9a4b-d6573bdef0ba.png"
+        ],
+        "Question": "Looking at the two women on the right, can you tell what the fashion trends will be for next season?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "17": {
+        "URL": [
+            "https://i.pinimg.com/474x/e5/d2/4b/e5d24b2224c0c1c5531852944acd1b1e.jpg"
+        ],
+        "Image path": [
+            "4be3d472-19d5-41f2-b847-603ef3bca135.png"
+        ],
+        "Question": "I'm kind of an artsy person. Find a place in this street for me to spend my Friday night.",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "19": {
+        "URL": [
+            "https://i.pinimg.com/564x/93/e8/54/93e854b3b761307fc3c23733846c174c.jpg"
+        ],
+        "Image path": [
+            "f3e29353-66f4-4026-9831-cc2a92718d4f.png"
+        ],
+        "Question": "Which city might this facility be located in?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "20": {
+        "URL": [
+            "https://i.pinimg.com/564x/71/68/41/716841a3b04890c2710cd9f246c6ab88.jpg"
+        ],
+        "Image path": [
+            "07d865c3-182a-4dd2-8f0c-7eb31872a758.png"
+        ],
+        "Question": "During which dynasty in China was the event depicted in this image first established?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "21": {
+        "URL": [
+            "https://i.pinimg.com/474x/bc/35/c8/bc35c86a7471aaded5149f6261cbae08.jpg"
+        ],
+        "Image path": [
+            "a1391071-7c2c-4e41-b75b-56cc5ba32c89.png"
+        ],
+        "Question": "What abstract concept might this image represent?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "22": {
+        "URL": [
+            "https://i.pinimg.com/474x/e9/65/06/e96506004f763006af3fb095fd4a3acc.jpg"
+        ],
+        "Image path": [
+            "6e0985df-e795-471e-9394-2672d3c9b418.png"
+        ],
+        "Question": "What human activities can contribute to the environmental condition displayed?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "25": {
+        "URL": [
+            "https://i.pinimg.com/564x/e7/c8/d0/e7c8d09f666ec91c46f890680d864d63.jpg"
+        ],
+        "Image path": [
+            "imagefdasucniaekvf.png"
+        ],
+        "Question": "The image is kind of a city logo. People in the city are proud of it.  What element of the transportation design in this image can contribute to such pride?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "27": {
+        "URL": [
+            "https://i.pinimg.com/474x/85/e2/59/85e259c61761bb1e7294e42be2b8a41f.jpg"
+        ],
+        "Image path": [
+            "cb24a38c-059d-4222-b9bb-f3b54c25eb95.png"
+        ],
+        "Question": "What is the purpose of the green streak on the plate in the image?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "30": {
+        "URL": [
+            "https://i.pinimg.com/564x/c4/1f/d1/c41fd1239383458c00a691b9bbc0cf72.jpg"
+        ],
+        "Image path": [
+            "2a7c1c41-22a0-4b40-a70d-6a73d7027453.jpg"
+        ],
+        "Question": "Why is there a lot of red smoke on the road?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "31": {
+        "URL": [
+            "https://i.pinimg.com/236x/3d/30/af/3d30af332c66399104201e9f15329110.jpg"
+        ],
+        "Image path": [
+            "83496486-9454-4b9e-9611-dcf2fdc04913.jpg"
+        ],
+        "Question": "What makes the rocks visually look different from those in the Gobi Desert?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "36": {
+        "URL": [
+            "https://www.pinterest.com/pin/331014641337052600/",
+            "https://cdn11.bigcommerce.com/s-pqywb1ijst/images/stencil/1280x1280/k/untitled%20design%20(35)__99566.original.jpg"
+        ],
+        "Image path": [
+            "9bacfde7974057098903965181642314.jpg",
+            "untitled design (35)__99566.original.jpg"
+        ],
+        "Question": "According to image 1, infer the functionalities of the equipment the person wears on their foot in image 2.",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "38": {
+        "URL": [
+            "https://i.pinimg.com/236x/b1/d7/b2/b1d7b277ecb4317afada57036c23ec8e.jpg",
+            "https://i.pinimg.com/236x/d2/83/d5/d283d5d209d3f8c0bb882f5dae6066b2.jpg"
+        ],
+        "Image path": [
+            "14c32038-28c8-4373-b76a-7ae25306a944.png",
+            "5992ff79-936f-4fb5-9e7a-d97b6a785f06.png"
+        ],
+        "Question": "If most cities in a country have the scene as in the second image,  where is this country probably located in the first image?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "39": {
+        "URL": [
+            "https://i.pinimg.com/474x/6e/aa/60/6eaa602df62f5ffc097c2d6bae845d0f.jpg",
+            "https://i.pinimg.com/236x/9a/5d/fb/9a5dfbc17d321b47c241b7893406d6c9.jpg"
+        ],
+        "Image path": [
+            "6eaa602df62f5ffc097c2d6bae845d0f.jpg",
+            "8438432bn.png"
+        ],
+        "Question": "If I was born in 1900, which vehicle I would be using when I was 25 years old? ",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "43": {
+        "URL": [
+            "https://i.pinimg.com/564x/d2/a3/46/d2a3461050c5ce40fcca87d5ae7236b3.jpg"
+        ],
+        "Image path": [
+            "0eb8a5b3-2e7f-4ddf-b003-d3cbd897e856.png"
+        ],
+        "Question": "What percentage of this object is visible?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "44": {
+        "URL": [
+            "https://flickr.com/photos/gageskidmore/29381357345/in/photolist-LLk8UD-LLk7QV-KPpYwD-LjV7eh-KPcgfq-LWvCB7-MQUZqq-MU1GEa-MHUHwj-MQVjMb-MQUYBG-MQVrZC-MQVhKf-MQV1Ku-LWvFhh-MQVajU-MrVzDY-MQVeA9-LWvGQ7-LWtom6-MLzRdv-MLAwPe-LWvq7N-MHUVTd-MU1CeB-MU2ivn-MrVoL5-MLA3zi-MLAk4F-LWtrfx-MU2ecn-MQVwgo-MLzT8c-LWvB7y-R5KMn4-R35r7q-R5KKJp-R5KLec-R5KLL4-R35s8o-Xkifsq-2kdNWY5-2kdSQvk-CunnCo-EkoQJX-CwCef8-BGpP5E-2iiLfom-BGx7Ca-CDVuwt"
+        ],
+        "Image path": [
+            "64fdad67-a7d7-47a4-9f19-0c6efc6947ef.png"
+        ],
+        "Question": "In what year was this man eligible to run for president?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "45": {
+        "URL": [
+            "https://flickr.com/photos/trebow/6066409804/in/photolist-af4Whu-6ezTyG-36WGnv-gPFLP-21HAndL-3ZrQK3-4GmEcw-5aL3vj-2e2F3Dg-Cap7W7-7sybBp-2UCoht-y6oSKL-9YXDLm-pYjWf4-2aYMq88-8UqujR-2ZwVwo-3fADDE-6mb1o9-5ANr4g-yfiRv-6uohC2-4UeQ3C-mfMhym-Zh3J6S-WKygJX-7a4XVC-pmj2B-eaZzhj-r7i8zG-WuwJXW-7euFqr-UkdsRp-kaLtU-6qF6T-71jSPa-3akwVz-qEqAFc-dacXun-4zjmRn-bhiiSP-LqwJqS-8z3RKJ-8rvYxN-Uh86Hw-U1bGAJ-bEkHzX-2qcsFH-4nLrU1"
+        ],
+        "Image path": [
+            "4aed40d1-3a85-4613-bce3-a9ce6a63b5d3.png"
+        ],
+        "Question": "What is the purpose of these bulges on the back of this animal?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "47": {
+        "URL": [
+            "https://www.pinterest.com/pin/710583647477604641/"
+        ],
+        "Image path": [
+            "54bc8b5b-173e-46c1-9d7c-cda224f6bb0f.png"
+        ],
+        "Question": "Who is more likely to be an Oscar winner in this photo?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "51": {
+        "URL": [
+            "https://pbs.twimg.com/media/Cy7p8yRVIAAIyw2?format=jpg&name=medium"
+        ],
+        "Image path": [
+            "Cy7p8yRVIAAIyw2.jpeg"
+        ],
+        "Question": "I visited this branch and came back with nothing. Why?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "53": {
+        "URL": [
+            "https://hip2save.com/deals/christmas-clearance/"
+        ],
+        "Image path": [
+            "c6e21eaa-0c8a-4fac-85f0-a5fba2aaac0d.png"
+        ],
+        "Question": "What is mostly happening here?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "56": {
+        "URL": [
+            "https://www.pinterest.com/pin/29695678784467944/"
+        ],
+        "Image path": [
+            "f3785293-0e84-4f1c-806d-4e5c76ea9525.png"
+        ],
+        "Question": "What might be happening?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "57": {
+        "URL": [
+            "https://en.wikipedia.org/wiki/Flying_buttress#/media/File:Notre_Dame_buttress.jpg"
+        ],
+        "Image path": [
+            "1fa47873-0d40-4de4-b238-eee76d5c1b30.png"
+        ],
+        "Question": "How are these architectures similar to guy-wires supporting radio towers?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "58": {
+        "URL": [
+            "https://www.pinterest.com/pin/544302304942749143/",
+            "https://www.independent.co.uk/news/world/americas/donald-trump-motorcade-mar-a-lago-florida-angry-driver-van-white-house-vehicles-us-president-a8078466.html"
+        ],
+        "Image path": [
+            "9c4cf859-1b62-4588-a16e-3a0ea314cffd.png",
+            "45b084ad-a98c-4531-bc2c-d6c10dad0b84.png"
+        ],
+        "Question": "Considering that the individuals carrying the palanquin serve the central figure in the first image, what is their role in relation to the most important figure in the second image?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "59": {
+        "URL": [
+            "https://www.pinterest.com/pin/613615518010768300/",
+            "https://www.pinterest.com/pin/462674561738338132/"
+        ],
+        "Image path": [
+            "350849d2-fa4f-4cd6-9302-be5df1f2ce59.png",
+            "6b23d985-2672-4417-961b-f00a4af30445.png"
+        ],
+        "Question": "Drawing a parallel between the two images, if the tree roots were to be destroyed, what might occur in a city if the element performing a similar function in the second image were to encounter a comparable predicament?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "62": {
+        "URL": [
+            "https://www.pinterest.com/pin/507640189259043447/"
+        ],
+        "Image path": [
+            "f4f64211-3f2d-498f-a087-144745638ca0.png"
+        ],
+        "Question": "Which film genre is represented in this scene?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "64": {
+        "URL": [
+            "https://www.pinterest.com/pin/615867317810998803/"
+        ],
+        "Image path": [
+            "aba23279-6066-4131-b83d-af9812558249.png"
+        ],
+        "Question": "If the length of B in the figure is equal to P, then what are the degrees of the acute angles in the triangle?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "65": {
+        "URL": [
+            "https://www.pinterest.com/pin/812759064014147902/"
+        ],
+        "Image path": [
+            "9147d7db-b57e-437c-a9e8-3b64244308ef.png"
+        ],
+        "Question": "From left to right, which person releases the album 'Thriller'?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "67": {
+        "URL": [
+            "https://www.pinterest.com/pin/594264113331773264/"
+        ],
+        "Image path": [
+            "f949f6c7-3d2a-47fc-8425-b200a6b4209e.png"
+        ],
+        "Question": "what is the name of the similar product in this image manufactured by Sony?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "69": {
+        "URL": [
+            "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstudy.com%2Fcimages%2Fmultimages%2F16%2Fpolygonschart.png&tbnid=4Y6NcuiIHaGY1M&vet=12ahUKEwj0mdazhbiBAxVOBEQIHRN9Ac8QMygDegQIARBa..i&imgrefurl=https%3A%2F%2Fstudy.com%2Facademy%2Flesson%2Fhow-to-find-the-area-of-irregular-polygons.html&docid=ETwK2cRjCAPWhM&w=445&h=443&q=polygons%20grouped%20the%20number%20of%20sides&hl=en&ved=2ahUKEwj0mdazhbiBAxVOBEQIHRN9Ac8QMygDegQIARBa"
+        ],
+        "Image path": [
+            "737b51bb-31af-4e3a-8cd1-ac8a6be8a534.png"
+        ],
+        "Question": "How are these shapes arranged in this order?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "70": {
+        "URL": [
+            "https://www.pinterest.com/pin/965740713824587799/"
+        ],
+        "Image path": [
+            "112024db-dceb-4fb9-bb0b-aec562c7359f.png"
+        ],
+        "Question": "What is the smallest visible and nameable celestial object in the image called?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "74": {
+        "URL": [
+            "https://www.pinterest.com/pin/9499849186073912/"
+        ],
+        "Image path": [
+            "23da844c-54cc-404a-9a05-dd6b401f4d26.png"
+        ],
+        "Question": "In the real world, what object or place serves a similar function for most people as the object depicted in this image\uff1f\n",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "75": {
+        "URL": [
+            "https://en.wikipedia.org/wiki/File:Venus_Flytrap_showing_trigger_hairs.jpg"
+        ],
+        "Image path": [
+            "0bac937d-0877-47bf-abb7-b92a0adc3d5e.png"
+        ],
+        "Question": "Why might this plant have developed the unique structure seen in the image?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "78": {
+        "URL": [
+            "https://www.housebeautiful.com/lifestyle/cleaning-tips/a1532/leave-your-shoes-at-the-door/"
+        ],
+        "Image path": [
+            "0b8c2449-01f7-4ef6-a6d4-806e347160f5.png"
+        ],
+        "Question": "If I want to visit the owner of this house, what do I need to do before I enter?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "80": {
+        "URL": [
+            "https://www.pinterest.com/pin/1006976797914960001/"
+        ],
+        "Image path": [
+            "e9b76591-c399-4eae-9a79-347bf400686f.png"
+        ],
+        "Question": "Why do they perform here?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "87": {
+        "URL": [
+            "https://www.pinterest.com/pin/518547344611348579/"
+        ],
+        "Image path": [
+            "454b8fed-b101-491d-bfd6-0f23e6f36904.png"
+        ],
+        "Question": "Why can he fly in the sky?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "89": {
+        "URL": [
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.angi.com%2Farticles%2Fplastic-or-metal-mailbox.htm&psig=AOvVaw1ryrKzTz9TE4rmhN87yNC9&ust=1695697556273000&source=images&cd=vfe&opi=89978449&ved=0CBIQjhxqFwoTCNCSn-bjxIEDFQAAAAAdAAAAABAE"
+        ],
+        "Image path": [
+            "c8f4a7bd-546a-46d7-93b4-53d46014f48a.png"
+        ],
+        "Question": "Why might the individual be inspecting the container?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "90": {
+        "URL": [
+            "https://www.pinterest.com/pin/909445718480440515/"
+        ],
+        "Image path": [
+            "3500d959-66c7-4016-8119-40cd96d47851.png"
+        ],
+        "Question": "Why might the individual be referring to the paper in her hand?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "93": {
+        "URL": [
+            "https://www.pinterest.com/pin/9570217938538233/"
+        ],
+        "Image path": [
+            "5ee6362c-e7f0-4172-8737-6636c1c692ee.png"
+        ],
+        "Question": "Which part of a car has the same function as the animal in the picture?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "94": {
+        "URL": [
+            "https://www.pinterest.com/pin/7881368092053216/"
+        ],
+        "Image path": [
+            "622fd0e2-f097-4e40-9e68-23ffb02b296a.png"
+        ],
+        "Question": "Given its use in images, which object acts more like this object in contemporary environments?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "95": {
+        "URL": [
+            "https://live.staticflickr.com/4721/27945774379_3737d22126_n.jpg"
+        ],
+        "Image path": [
+            "f09fd855-b15a-405c-9feb-32544a4acd19.png"
+        ],
+        "Question": "If the dog runs towards the tree, then comes back, what color is the object that the dog will be near at the end?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "96": {
+        "URL": [
+            "https://live.staticflickr.com/4721/27945774379_3737d22126_n.jpg"
+        ],
+        "Image path": [
+            "cc8f22c0-daa8-4561-bf5b-76454d5feda2.png"
+        ],
+        "Question": "If we move pencils from all other cups into the leftmost cup, what color is the cup with the most pencils?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "98": {
+        "URL": [
+            "https://media.istockphoto.com/id/491085120/photo/enjoying-shopping-together.jpg?s=612x612&w=0&k=20&c=xMjEYnb5Iezb9jsQCEGh-kGy5rLRcgPdRGIFuqi21gw="
+        ],
+        "Image path": [
+            "64b08deb-ae85-426e-b6ff-239f5035c307.png"
+        ],
+        "Question": "What are their diet preferences?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "100": {
+        "URL": [
+            "https://i.pinimg.com/564x/57/f0/02/57f002683503726e34fd64ec19aaccf1.jpg"
+        ],
+        "Image path": [
+            "b6c28579-80d6-4319-b3db-e56a51e70be4.png"
+        ],
+        "Question": "Will the newspaper held by the woman get damaged if she keeps holding it?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "105": {
+        "URL": [
+            "https://i.pinimg.com/564x/f7/a5/b0/f7a5b07d3439f67abd7c6e9a4a6d837a.jpg"
+        ],
+        "Image path": [
+            "4bba9189-5094-4b0e-8fca-6ec40f7d5b79.png"
+        ],
+        "Question": "Why is the man holding his head?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "108": {
+        "URL": [
+            "https://i.pinimg.com/564x/36/68/e4/3668e40434c7e4c5ebcb6f338db194a7.jpg"
+        ],
+        "Image path": [
+            "2b7e5772-b469-49a4-9a5c-a65383b0b552.png"
+        ],
+        "Question": "Which month is the activity most likely to occur?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "109": {
+        "URL": [
+            "https://i.pinimg.com/564x/b2/de/45/b2de45dfe6ac8e14689c636f20b3effc.jpg"
+        ],
+        "Image path": [
+            "3bbe148c-d4c8-49a3-ba6a-157608cc00a3.png"
+        ],
+        "Question": "Where does the event probably take place?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "113": {
+        "URL": [
+            "https://www.pinterest.com/pin/23855073011537402/"
+        ],
+        "Image path": [
+            "1124416b-054d-40a2-b55d-9ad61ddbb7bc.png"
+        ],
+        "Question": "What can be inferred about the time period when this battle took place?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "115": {
+        "URL": [
+            "https://i.pinimg.com/474x/d1/7b/cc/d17bcc47f4451b6f0b84956b99ee8d08.jpg"
+        ],
+        "Image path": [
+            "7c2177a1-e44d-4742-bec0-2944c1cd79f0.png"
+        ],
+        "Question": "What is the native environment of this plant?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "118": {
+        "URL": [
+            "https://i.pinimg.com/564x/33/49/40/33494058d667f223a712bcdf73126957.jpg"
+        ],
+        "Image path": [
+            "e9090f56-5add-4a04-a771-da06902ac40f.png"
+        ],
+        "Question": "Is this forest likely located in the Arctic tundra?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "126": {
+        "URL": [
+            "https://i.pinimg.com/564x/a7/b9/54/a7b9540751632d737ea4ee04645b80fc.jpg"
+        ],
+        "Image path": [
+            "07e24c17-8579-4230-ab0e-acfe90d647ab.png"
+        ],
+        "Question": "What are the possible medicinal uses of this plant.",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "131": {
+        "URL": [
+            "https://i.pinimg.com/236x/30/92/ba/3092ba996aae2ff5bb3abe994e68c2ba.jpg"
+        ],
+        "Image path": [
+            "1d388c90-1e4b-4fd5-986c-63fbd8883355.png"
+        ],
+        "Question": "What significant historical event might the image be symbolizing?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "133": {
+        "URL": [
+            "https://i.pinimg.com/236x/4d/ee/f8/4deef8d00f2341d2f7114d3222f80e1f.jpg"
+        ],
+        "Image path": [
+            "f8c60517-8aef-499e-a391-4841b3678f4d.png"
+        ],
+        "Question": "Which city is most likely depicted?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "134": {
+        "URL": [
+            "https://preview.redd.it/sing-it-loud-v0-l6k9byixn8hb1.jpg?width=640&crop=smart&auto=webp&s=819c24614d29fe406b0713510578e57e136faf81"
+        ],
+        "Image path": [
+            "sing-it-loud-v0-l6k9byixn8hb1.jpg"
+        ],
+        "Question": "Explain to me why this image is funny",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "135": {
+        "URL": [
+            "https://i.pinimg.com/564x/1f/85/be/1f85bee3acc5a72467c0dde004b276ce.jpg"
+        ],
+        "Image path": [
+            "1f85bee3acc5a72467c0dde004b276ce.jpg"
+        ],
+        "Question": "Why is the light on?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "136": {
+        "URL": [
+            "https://i.pinimg.com/564x/54/4b/74/544b7400ba971e0c30118f84490234dd.jpg"
+        ],
+        "Image path": [
+            "544b7400ba971e0c30118f84490234dd.jpg"
+        ],
+        "Question": "What can we infer from the image?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "137": {
+        "URL": [
+            "https://i.pinimg.com/564x/7d/b8/12/7db8124c019df70999a54d906377a175.jpg"
+        ],
+        "Image path": [
+            "d74b1ff4-8b91-4edc-9c65-c516994f9036.png"
+        ],
+        "Question": "What is the most likely hobby of the person in this image? ",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "139": {
+        "URL": [
+            "https://i.pinimg.com/564x/dc/07/9e/dc079ee29ee3b3635eefe9d11fc1bbef.jpg"
+        ],
+        "Image path": [
+            "217373f1-6a6e-4315-b9f3-c4df063ce81a.png"
+        ],
+        "Question": "Given the visual cues, what festival or event might the people be participating in?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "143": {
+        "URL": [
+            "https://i.pinimg.com/564x/f2/ce/aa/f2ceaa015acb23d18e0edd0e8ce1d862.jpg"
+        ],
+        "Image path": [
+            "6a7e67e6-c481-43f5-93bc-46e6e0f25cdb.png"
+        ],
+        "Question": "During which time interval is it the fastest?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "144": {
+        "URL": [
+            "https://i.pinimg.com/236x/16/4b/96/164b967272194b0894b5c699fb01cc93.jpg"
+        ],
+        "Image path": [
+            "50983834-9564-4722-8603-cb486da93cfc.png"
+        ],
+        "Question": "After a while, what happens to the amount of sugar in the picture?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "145": {
+        "URL": [
+            "https://i.pinimg.com/236x/c3/fc/ca/c3fcca8c435cded4a3d9a54cce3bcfb4.jpg"
+        ],
+        "Image path": [
+            "3335f38c-eea6-424c-83d6-55c16827afd8.png"
+        ],
+        "Question": "Guess the hobby of the owner of this shelf",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "147": {
+        "URL": [
+            "https://i.pinimg.com/564x/f7/60/8a/f7608aed63989c8aeac2ed1ca8912c79.jpg",
+            "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2Fc5095d10-8acf-11ea-92bb-c58f84b6325c-standard.png?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+            "https://i.pinimg.com/474x/b5/54/7c/b5547cd0b2bd6d332063317807e55f2f.jpg",
+            "https://i.pinimg.com/474x/e6/8c/1e/e68c1eb47043ce9cd4cf34e2a462f7b5.jpg"
+        ],
+        "Image path": [
+            "f7608aed63989c8aeac2ed1ca8912c79.jpg",
+            "https___d6c748xw2pzm8.cloudfront.net_prod_c5095d10-8acf-11ea-92bb-c58f84b6325c-standard.jpg",
+            "b5547cd0b2bd6d332063317807e55f2f.jpg",
+            "e68c1eb47043ce9cd4cf34e2a462f7b5.jpg"
+        ],
+        "Question": "If the sequence of images in the first picture shows a change of emotion of a man working in the financial market before April 2020, which of the following images expresses the emotion better after this time point?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "148": {
+        "URL": [
+            "https://i.pinimg.com/564x/6e/79/f3/6e79f3ec22d6d5bbd8d425b331fd8100.jpg"
+        ],
+        "Image path": [
+            "6e79f3ec22d6d5bbd8d425b331fd8100.jpg"
+        ],
+        "Question": "According to the information in the image, which animal has the same ecological niche as the hawk?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "149": {
+        "URL": [
+            "https://i.pinimg.com/474x/06/43/14/064314585b9a33e335324f0e78c61045.jpg"
+        ],
+        "Image path": [
+            "064314585b9a33e335324f0e78c61045.jpg"
+        ],
+        "Question": "Which character in Chinese mythology has the most similar power to character in the picture?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "151": {
+        "URL": [
+            "https://i.pinimg.com/564x/25/ad/17/25ad1704653acb4d2143f5486ab3f80a.jpg",
+            "https://i.pinimg.com/736x/f9/95/cb/f995cbc4c28e193180491166a7c414bd.jpg"
+        ],
+        "Image path": [
+            "44a5164b-d3b6-48de-992c-8dab6e2c8441.png",
+            "3bf25ae0-063a-4c08-8f78-dcc6c9196236.png"
+        ],
+        "Question": "What phenomenon do I want to emphasize when I put these 2 images together?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "152": {
+        "URL": [
+            "https://i.pinimg.com/236x/89/27/04/892704df4901cc0dae77fc444d1bfe12.jpg",
+            "https://i.pinimg.com/236x/1b/c9/34/1bc934e12c96496c08b944ac1a822908.jpg"
+        ],
+        "Image path": [
+            "f626a33a-b96d-42f7-8661-6f803fac6a9f.png",
+            "bdef2959-35f1-4fd8-9ef8-6e61ef52db68.png"
+        ],
+        "Question": "What is the spirit demonstrated in the second image compared to the activity shown in the first image?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "153": {
+        "URL": [
+            "https://i.pinimg.com/236x/7f/e1/67/7fe167c631033d59d300a54b8ff660e1.jpg",
+            "https://i.pinimg.com/236x/a3/ea/cf/a3eacf64aeb5dad1809339fad8e24397.jpg",
+            "https://i.pinimg.com/236x/33/1a/d3/331ad3f95b8c155c61c3524f4bd0a73b.jpg"
+        ],
+        "Image path": [
+            "cf98e30d-2b10-40df-8012-82406ab10a6e.png",
+            "8036b4ac-ce91-419d-9b7b-46fbc610db03.png",
+            "406b2ba7-eb8f-497f-9aa0-586383668361.png"
+        ],
+        "Question": "I'm a pilot. Which scene would I see most often during a workday?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "154": {
+        "URL": [
+            "https://i.pinimg.com/236x/46/ba/ee/46baeedf5882199f7352dd3308e429bd.jpg",
+            "https://i.pinimg.com/236x/f7/8e/b0/f78eb04108425ba091533c34cd8beb11.jpg"
+        ],
+        "Image path": [
+            "9ecd9a92-28fe-431d-918d-4f745069debf.png",
+            "58794dab-0e62-4e37-9ae9-1e18b52ac651.png"
+        ],
+        "Question": "In which part of the 2nd image is the 1st image related?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "155": {
+        "URL": [
+            "https://vivadifferences.com/wp-content/uploads/2019/11/Solar-Eclipse.jpg",
+            "https://i.pinimg.com/236x/0c/fb/c9/0cfbc91c6c58471189ef82efd3e78ccf.jpg"
+        ],
+        "Image path": [
+            "33e7f4c2-80be-4d3f-93ed-f1a86a1a4671.png",
+            "57e6649b-a253-4e45-bf38-8f276b49fca9.png"
+        ],
+        "Question": "According to the first image, in which continent of the earth was the photo in the 2nd image taken?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "156": {
+        "URL": [
+            "https://i.pinimg.com/564x/07/cc/06/07cc060013884949edb517bda307d6ae.jpg",
+            "https://i.pinimg.com/564x/e5/00/58/e50058618127cce94da97d95d42d995e.jpg"
+        ],
+        "Image path": [
+            "cc339190-4826-41a5-bf34-29928041f572.png",
+            "00798f30-fd7d-4abe-baa9-76a271d43afe.png"
+        ],
+        "Question": "Among the 4 tallest buildings from the second image, which one doesn't appear in the first image?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "157": {
+        "URL": [
+            "https://i.pinimg.com/236x/8f/82/05/8f820527305acc9728847365c3fa828c.jpg",
+            "https://i.pinimg.com/736x/fb/20/1c/fb201c332005f0fd3bb43ce7ddcab640.jpg"
+        ],
+        "Image path": [
+            "9e4e9db6-ae33-4f64-afc9-e0a2756b4a00.png",
+            "f841c735-7458-4b43-aef5-009048a6079f.png"
+        ],
+        "Question": "How is the first image related to the second image?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "158": {
+        "URL": [
+            "https://i.pinimg.com/474x/6a/e2/2c/6ae22cb437b3e345178d4442954b74d0.jpg",
+            "https://i.pinimg.com/474x/a6/f3/90/a6f39083f4cef91786183fe7267f5ecf.jpg"
+        ],
+        "Image path": [
+            "6ae22cb437b3e345178d4442954b74d0.jpg",
+            "a6f39083f4cef91786183fe7267f5ecf.jpg"
+        ],
+        "Question": "What might trigger the scene in the second image, given the cue shown in the first image?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "160": {
+        "URL": [
+            "https://i.pinimg.com/236x/c2/de/13/c2de1319f090807e8b8fafb1ff8584f6.jpg",
+            "https://i.pinimg.com/236x/79/e6/1d/79e61d5f84d38cc580b35d1981cd65f3.jpg",
+            "https://i.pinimg.com/236x/4e/6b/0a/4e6b0a656631052ddc6dbca43f2145a3.jpg"
+        ],
+        "Image path": [
+            "fbdc57cd-5cac-4911-918f-17388392eeb3.png",
+            "b1cee0dd-e302-46df-8f63-d31797f70a48.png",
+            "cb876e88-19d4-4477-806b-3882f641be5c.png"
+        ],
+        "Question": "Who was the first to systematically summarize the phenomena illustrated in this sequence of images and propose a new theory?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "161": {
+        "URL": [
+            "https://i.pinimg.com/236x/e2/c3/a6/e2c3a6aea902be54781b5e46619a140e.jpg",
+            "https://i.pinimg.com/236x/b9/fd/35/b9fd356dd97c49bd4812cfe4f60af2b8.jpg",
+            "https://i.pinimg.com/564x/15/c1/20/15c120a766893650de3780c15dd6de7e.jpg",
+            "https://i.pinimg.com/236x/9b/f3/de/9bf3de763a84c0967f43cebcbe4fbb87.jpg"
+        ],
+        "Image path": [
+            "78183d23-4c69-40e4-9b57-ee561bd2e66c.png",
+            "77b430eb-4864-4907-af78-2d79538cabc5.png",
+            "1dd4acb9-b645-4f66-8a87-24437a49379a.png",
+            "160123de-675c-4007-9fd0-3c2b96effe75.png"
+        ],
+        "Question": "Based on the content shown in the images, what would you expect to see in the next image?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "162": {
+        "URL": [
+            "https://miro.medium.com/v2/resize:fit:936/format:webp/1*Wq73CC92pTvjhHqU-8lEIA.png"
+        ],
+        "Image path": [
+            "a5eb8e06-d680-4fdf-88fc-c8b574e04ebc.png"
+        ],
+        "Question": "Why is this image interesting?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "164": {
+        "URL": [
+            "https://img.jagranjosh.com/images/2022/September/592022/math-picture-puzzles-brain-teasers-coconut-tree-pot-tea-cup-compressed.jpg"
+        ],
+        "Image path": [
+            "3433f3d0-208e-4d99-bde7-dce49801f9ce.png"
+        ],
+        "Question": "What is the correct answer for the equation in the fourth row?",
+        "Category": "Deductive",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "165": {
+        "URL": [
+            "https://images.squarespace-cdn.com/content/v1/54905286e4b050812345644c/1615941196127-BQ3RWIPODAPSPM2MNFMI/01.jpg?format=2500w"
+        ],
+        "Image path": [
+            "48b0ecf3-f2b5-4ffe-b4a2-4ce075f0fe11.png"
+        ],
+        "Question": "Look at the image and answer the question in the image",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "166": {
+        "URL": [
+            "https://i.pinimg.com/564x/8b/d2/fe/8bd2fe25bbced4d0cefdaa3655ffab44.jpg"
+        ],
+        "Image path": [
+            "14bd6e13-872b-448e-9fc6-0928b0341dab.png"
+        ],
+        "Question": "Is this image following a linear scale?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "167": {
+        "URL": [
+            "https://i.pinimg.com/564x/82/36/ee/8236ee1cf97a34c866e0c09b2bef8210.jpg"
+        ],
+        "Image path": [
+            "b2c22bb2-51e4-4256-b46c-0d24c231c7fe.png"
+        ],
+        "Question": "How many books are there in the image?",
+        "Category": "Deductive",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "168": {
+        "URL": [
+            "https://posts-cdn.kueez.net/v6fiLR5f28ZneCsn/ga4Ao9YrdGQOgXXl.jpg"
+        ],
+        "Image path": [
+            "118e4b10-e34e-4940-95a5-30e20204ee24.png"
+        ],
+        "Question": "Where are the foods in this image?",
+        "Category": "Deductive",
+        "Counter-intuitve": "No",
+        "Complexity": "High"
+    },
+    "169": {
+        "URL": [
+            "https://posts-cdn.kueez.net/v6fiLR5f28ZneCsn/t1Jm1ZBnsNs1lPPu.jpg"
+        ],
+        "Image path": [
+            "cf3543a3-20ce-4660-9919-79353fa4b638.png"
+        ],
+        "Question": "Is there a blanket on top of the car?",
+        "Category": "Deductive",
+        "Counter-intuitve": "Yes",
+        "Complexity": "Moderate"
+    },
+    "171": {
+        "URL": [
+            "https://imgb.srgcdn.com/fEWjvxzM7EskRYXkB7iz.jpg?width=768"
+        ],
+        "Image path": [
+            "a683e45a-16c3-4fd1-bca9-65ee416dac5c.png"
+        ],
+        "Question": "Is there a spider on the lamp?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "172": {
+        "URL": [
+            "https://www.bhavinionline.com/wp-content/uploads/2017/08/which-tank-will-fill-up-first-whatsapp-riddle-AND-puzzle.jpg"
+        ],
+        "Image path": [
+            "40f25c25-adb0-488c-bad2-c41d24debf36.png"
+        ],
+        "Question": "Answer the question in the image",
+        "Category": "Deductive",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "173": {
+        "URL": [
+            "https://i.pinimg.com/564x/e1/32/5d/e1325d9580558cadcf28a142a2da9d88.jpg"
+        ],
+        "Image path": [
+            "32ba6bcf-ddb4-4fdc-be55-4e724eba49f5.png"
+        ],
+        "Question": "For the next map of Australia with no color and a question mark, what should we call it?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "174": {
+        "URL": [
+            "https://i.pinimg.com/564x/e1/32/5d/e1325d9580558cadcf28a142a2da9d88.jpg"
+        ],
+        "Image path": [
+            "7a555ea2-14fb-4f6c-8c9d-2424806a8b25.png"
+        ],
+        "Question": "What physical phenomenon can we infer from the relationship between these cats?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "175": {
+        "URL": [
+            "https://i.pinimg.com/564x/6b/aa/c0/6baac09d737be407deb30d07836a2d8e.jpg"
+        ],
+        "Image path": [
+            "bfd2757a-3a55-4a02-8576-39598c78f98a.png"
+        ],
+        "Question": "What should we draw in the blank?",
+        "Category": "Analogical",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "176": {
+        "URL": [
+            "https://i.pinimg.com/564x/aa/df/60/aadf607c2ad3a47237ed766aa47ecb09.jpg",
+            "https://i.ytimg.com/vi/zC0ZLNjRtXs/maxresdefault.jpg"
+        ],
+        "Image path": [
+            "77c5d796-e7fe-4956-8f7f-7893c1d11d93.png",
+            "d861c56b-774a-46d2-a281-1d39dbdd455b.png"
+        ],
+        "Question": "Based on the first image, what would you call object on the left in the second image?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "177": {
+        "URL": [
+            "https://www.worldatlas.com/r/w1200-q80/upload/bd/04/60/shutterstock-1338908357.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/f/f3/Fidget_spinner_red%2C_cropped.jpg"
+        ],
+        "Image path": [
+            "258c80a8-e327-4c28-bd78-787c0e6cda1f.png",
+            "67ad38eb-a039-4d3d-9022-3038bfb792f9.png"
+        ],
+        "Question": "What is common between the two objects in the two images?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "178": {
+        "URL": [
+            "https://i.pinimg.com/564x/2f/66/43/2f6643cebd83f83a41c6989ecfcc307e.jpg"
+        ],
+        "Image path": [
+            "bddce331-304c-496c-b3d2-a3fe3f253dae.png"
+        ],
+        "Question": "Answer the question in the image",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "179": {
+        "URL": [
+            "https://www.jobtestprep.co.uk/media/31695/inductive-reasoning-sample-question-1.webp"
+        ],
+        "Image path": [
+            "94699660-c3a6-43c7-b0dd-fa131a6100a4.png"
+        ],
+        "Question": "From left to right, which object in the second row should be placed into the position with a question mark in the first row?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "180": {
+        "URL": [
+            "https://www.youtube.com/watch?v=mIrGJd6-icw"
+        ],
+        "Image path": [
+            "be00ff3f-5fa3-4ece-b9e2-b3495160e79d.png",
+            "d46cf78a-a469-478e-ac90-d1fe8d4a1f67.png"
+        ],
+        "Question": "How should we arrange the flowers in the second image to the right of the flowers in the first image to make them follow a consistent pattern? Note that the leftmost flower in the first image is the first image in the flower sequence.",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "182": {
+        "URL": [
+            "https://img.animalplanet.co.kr/news/2022/03/19/700/rhq2w7ll8577vys88g63.jpg",
+            "https://img.animalplanet.co.kr/news/2022/03/19/700/3r91r9q1s0eng34zr08z.jpg"
+        ],
+        "Image path": [
+            "60b612c6-cb48-4b11-afa0-199bdf90adb7.png",
+            "ffcd33e1-f547-4446-b878-30b8256cceee.png"
+        ],
+        "Question": "A man is found dead in his home by a postman on Friday. We know that the postman delivered all correspondence, a food delivery man brought food, and a newspaper delivery man delivered newspapers every day. From the evidence shown in the first image, if you were the police, what is the color of the coat that the murderer wears among the three suspects in the second image?",
+        "Category": "Abductive",
+        "Counter-intuitve": "No",
+        "Complexity": "High"
+    },
+    "183": {
+        "URL": [
+            "https://i.pinimg.com/564x/bb/97/6b/bb976b3a53b794681d351fec4e58324f.jpg"
+        ],
+        "Image path": [
+            "b5cbf53f-08ae-4a6b-ab54-33825ac2720b.png"
+        ],
+        "Question": "What does one need to do to see the animal in this image? What animal do you see?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "184": {
+        "URL": [
+            "https://i.pinimg.com/564x/35/aa/d9/35aad9ebf04087675243968d33b43d08.jpg"
+        ],
+        "Image path": [
+            "6a7847ac-e168-4987-a2d5-fcbe197ba744.png"
+        ],
+        "Question": "Answer the question in the image",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "185": {
+        "URL": [
+            "https://imgb.srgcdn.com/ob4B2CnwgHe5cBqs8lU7.jpg?width=480"
+        ],
+        "Image path": [
+            "cddce8ff-cfd8-40b0-b0fc-b71324667a87.png"
+        ],
+        "Question": "Why does the person add toothpicks to the noodle soup?",
+        "Category": "Abductive",
+        "Counter-intuitve": "Yes",
+        "Complexity": "Moderate"
+    },
+    "186": {
+        "URL": [
+            "https://www.indy100.com/media-library/image.jpg?id=28093653&width=1110&quality=75"
+        ],
+        "Image path": [
+            "7ae9f3b7-20e0-4a26-8cea-dbce0f6ad0cb.png"
+        ],
+        "Question": "Why are there four spoons and four plates when there are only three people shown in the image?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "190": {
+        "URL": [
+            "https://images.squarespace-cdn.com/content/v1/59990c1fbe42d6f75f9d2fff/1576972269264-RPLX2TW8H9XDEESGIL6H/SWTROSOneSheet?format=2500w"
+        ],
+        "Image path": [
+            "8aa2bbc4-7a21-49ad-94e5-8837c0a28c29.png"
+        ],
+        "Question": "Who made the theme song of this movie?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "191": {
+        "URL": [
+            "https://media.cntraveler.com/photos/5b607d1f0b93210c13451fea/16:9/w_2240,c_limit/GettyImages-638412514.jpg"
+        ],
+        "Image path": [
+            "5634675a-638e-47d9-9f3d-fa33bff5c6a2.png"
+        ],
+        "Question": "In which country can you take this photo",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "192": {
+        "URL": [
+            "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2020/03/1294/728/062014-NBA-logo-LN-PI.jpg?ve=1&tl=1"
+        ],
+        "Image path": [
+            "ba1c6434-7b37-4064-9b74-9ef005ac8bd3.png"
+        ],
+        "Question": "Which player is in this image?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "193": {
+        "URL": [
+            "https://pbs.twimg.com/media/CXcMsAsUkAA30YX?format=jpg&name=large"
+        ],
+        "Image path": [
+            "211b746b-4b79-475b-ad5a-c1d3e32a19d7.png"
+        ],
+        "Question": "How many championships do people in this image have in total?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "194": {
+        "URL": [
+            "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_C6ppxlp0qBys7wnNJQFpgAkEHAqIDHwEqkiwoisWlLipFWOG"
+        ],
+        "Image path": [
+            "c88d5f11-0bcc-4e06-b6f4-c4d280d49178.png"
+        ],
+        "Question": "Which type of electric power does the person to whom this company logo is a tribute invent?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "195": {
+        "URL": [
+            "https://innovationmanagement.se/wp-content/uploads/2023/08/IBM-Logo.jpg"
+        ],
+        "Image path": [
+            "4a0748d3-07ce-43cb-93a7-712e314e6e27.png"
+        ],
+        "Question": "What does this image stand for?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "197": {
+        "URL": [
+            "https://i.pinimg.com/564x/a9/8c/ec/a98cec23877f94235cf3ca50ff3affcb.jpg"
+        ],
+        "Image path": [
+            "0f4c32fc-9f96-459c-85eb-94cb221b4b3f.png"
+        ],
+        "Question": "What is the height of the mountain in this image",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "198": {
+        "URL": [
+            "https://townsquare.media/site/96/files/2022/03/attachment-Aurora-Borealis-credit-YouTube.jpg?w=980&q=75"
+        ],
+        "Image path": [
+            "0d29e87e-fbce-4a51-a2fb-81fa8b53512b.png"
+        ],
+        "Question": "Do I need to wear a heavy coat when I see this?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "199": {
+        "URL": [
+            "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTk_-4OWiUb31f5MgDfjR-Gi5ND4EkUf1vsw-2wwvJahJWznMJ9"
+        ],
+        "Image path": [
+            "d0403091-3809-48fc-9e2c-b04fb931bf27.png"
+        ],
+        "Question": "What kind of animals most likely make these footprints?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "200": {
+        "URL": [
+            "https://www.flickr.com/photos/198417294@N07/53176921330/in/faves-81418524@N00/"
+        ],
+        "Image path": [
+            "6585f315-734a-422e-882c-d8eade096717.png"
+        ],
+        "Question": "If a tourist wants to visit this place, list the order of the colors of parasols they will see.",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "204": {
+        "URL": null,
+        "Image path": [
+            "8f7dc544-f568-42e5-8f4c-06444dc29d65.png"
+        ],
+        "Question": "what is the funny part of this image",
+        "Category": "Abductive",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "205": {
+        "URL": null,
+        "Image path": [
+            "e3f5f90c-2579-4cda-a05f-83a25fcdd9c0.png"
+        ],
+        "Question": "Would you expect to see yellow in the sea a few seconds after seeing this image?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "208": {
+        "URL": [
+            "https://joannafrankham.com/wp-content/uploads/2012/06/brock-davis-broccoli-house1.jpg",
+            "https://static.wikia.nocookie.net/ec4e1c7e-81ec-438d-a69b-b32f2309eabc/scale-to-width/755"
+        ],
+        "Image path": [
+            "46a3ac01-32e1-4541-a7e6-36f8d12d67a0.png",
+            "0684fb63-e877-4d51-abd6-8523adb4a68e.png"
+        ],
+        "Question": "What is the analogical relationship between 2 images",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "209": {
+        "URL": [
+            "https://assets.mycast.io/actor_images/actor-fire-element-285103_large.jpg?1634111440",
+            "https://t0.gstatic.com/images?q=tbn:ANd9GcQa93fXD1B3lVbSixC9kHvmGd8i68N0iABQo8vDmksUfCDoGUJK"
+        ],
+        "Image path": [
+            "109d21ed-b898-49ab-bb77-15ca556de2cd.png",
+            "4a0b837b-aea6-4066-9abb-74c2ff1ee0f5.png"
+        ],
+        "Question": "What is the relationship between these 2 images",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "212": {
+        "URL": [
+            "https://www.pinterest.com/pin/494270127864460669/"
+        ],
+        "Image path": [
+            "d4e7c4e2-373e-4291-b10a-42a561d95da3.png"
+        ],
+        "Question": "Will I get splashed when I approach this?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "214": {
+        "URL": [
+            "https://www.pinterest.com/pin/268245721548240708/"
+        ],
+        "Image path": [
+            "03838846-6e27-43b8-9905-bdfeec9607b7.png"
+        ],
+        "Question": "Will I get a speeding ticket if I drive this too fast?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "216": {
+        "URL": [
+            "https://www.pinterest.com/pin/781374604122322246/"
+        ],
+        "Image path": [
+            "cd2d57b2-1ba5-4c57-93dc-dd96e9b18a5a.png"
+        ],
+        "Question": "What short phrase can you read from this image?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "217": {
+        "URL": [
+            "https://www.pinterest.com/pin/219269075586612776/"
+        ],
+        "Image path": [
+            "53c63946-3c4d-4a7d-8476-422a9eb6791c.png"
+        ],
+        "Question": "My brother sent this image to me. What's his thought?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "219": {
+        "URL": [
+            "https://www.pinterest.com/pin/70087337946901741/"
+        ],
+        "Image path": [
+            "0b613efc-28ff-43a9-a205-24be232be382.png"
+        ],
+        "Question": "Where most likely can you find these in your house?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "220": {
+        "URL": [
+            "https://www.pinterest.com/pin/347692033744713113/"
+        ],
+        "Image path": [
+            "ecc22b8d-7695-4fdb-856c-3ffd97e492d5.png"
+        ],
+        "Question": "Which product does this image refer to?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "221": {
+        "URL": [
+            "https://www.pinterest.com/pin/908953137276733319/"
+        ],
+        "Image path": [
+            "4f7f63f3-9eb3-4f53-aef5-e90a10766d6d.png"
+        ],
+        "Question": "Guess his hobby",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "222": {
+        "URL": [
+            "https://www.pinterest.com/pin/727190671083815726/"
+        ],
+        "Image path": [
+            "f9c52973-9a9b-4052-b5db-e6d617b88406.png"
+        ],
+        "Question": "If the iron ball is 100kg, how much effort do I need to use at least to pull it up?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "223": {
+        "URL": [
+            "https://www.pinterest.com/pin/2392606037792294/"
+        ],
+        "Image path": [
+            "e4cc6098-df1a-441b-985f-795e53a92ed5.png"
+        ],
+        "Question": "What does this image try to say",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "224": {
+        "URL": [
+            "Linkedin CAPTCHA"
+        ],
+        "Image path": [
+            "10d964b4-c8d6-4e06-87b8-97aa82e9f0c1.png"
+        ],
+        "Question": "What should I do",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "225": {
+        "URL": [
+            "https://www.pinterest.com/pin/351912463596724/"
+        ],
+        "Image path": [
+            "e7ffaec5-93b0-435e-a506-c26236d163d0.png"
+        ],
+        "Question": "The doctor asked me to control my weight. Is it OK for me to eat these as my lunch?",
+        "Category": "Deductive",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "226": {
+        "URL": [
+            "https://www.pinterest.com/pin/9218374212386100/"
+        ],
+        "Image path": [
+            "f49abc7e-f54c-4628-83a3-d433922654c8.png"
+        ],
+        "Question": "Which phrase do you think of when you see this image?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "227": {
+        "URL": [
+            "https://www.pinterest.com/pin/100205160429052691/"
+        ],
+        "Image path": [
+            "5129aea2-1dfa-48f2-b5a1-66fe47e4248a.png"
+        ],
+        "Question": "What does the logo in the image represent? What if I rotate it 180 degrees and change the color to black?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "228": {
+        "URL": [
+            "https://www.pinterest.com/pin/367324913371386975/"
+        ],
+        "Image path": [
+            "b0c48866-ba99-4723-b7fb-b8d68cb3b955.png"
+        ],
+        "Question": "Can you recall any word from this image?",
+        "Category": "Abductive",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "229": {
+        "URL": [
+            "https://www.pinterest.com/pin/1062779212047793556/"
+        ],
+        "Image path": [
+            "7097f0e2-a488-49e2-9356-f86865de5455.png"
+        ],
+        "Question": "What quote I can get from this image",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "230": {
+        "URL": [
+            "https://www.pinterest.com/pin/362258363787834639/"
+        ],
+        "Image path": [
+            "3e64a61f-8974-40e3-8bfe-f208f62d903a.png"
+        ],
+        "Question": "can you recall a type of food from this ?",
+        "Category": "Deductive",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "231": {
+        "URL": [
+            "https://cheezburger.com/12494597/nerdy-memes-for-anyone-who-wants-to-learn-a-thing-or-two?utm_campaign=091220&utm_medium=Memebase&utm_source=Pinterest"
+        ],
+        "Image path": [
+            "860fa0dc-cf71-4ea5-90e4-08f3d7edfd2e.png"
+        ],
+        "Question": "'I don't care about your [image]'. What am I trying to say?",
+        "Category": "Deductive",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "232": {
+        "URL": [
+            "https://www.pinterest.com/pin/794322453046324665/"
+        ],
+        "Image path": [
+            "f1e5afb6-53b4-4c13-a397-283bd116ded1.png"
+        ],
+        "Question": "Answer the questions in the image",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "233": {
+        "URL": [
+            "https://www.pinterest.com/pin/10485011609217946/"
+        ],
+        "Image path": [
+            "ccd524bd-fd08-4bba-896a-4e2d672729f8.png"
+        ],
+        "Question": "I have a bike, but there's some problem with it and it cannot move. Help me find the flow to diagnose and fix it",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "234": {
+        "URL": [
+            "https://www.pinterest.com/pin/347832771211299386/",
+            "https://www.pinterest.com/pin/41799102783302909/"
+        ],
+        "Image path": [
+            "7b0f03b3-663f-42db-8582-be338ebdbaff.png",
+            "bb85ef3a-a214-4b3a-b1f9-910e45e9f0c0.png"
+        ],
+        "Question": "What do these two images try to express in common?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "235": {
+        "URL": [
+            "https://www.pinterest.com/pin/815573814163777571/",
+            "https://lwleathers.com/cdn/shop/products/freezebrand5_402x.jpg?v=1589039395"
+        ],
+        "Image path": [
+            "ecb11f5e-9d21-4fe9-9e24-cf2091824178.png",
+            "64072082-4f81-46e6-bb33-a98521a6dcb3.png"
+        ],
+        "Question": "What's the difference between the physics laws used in the 2 images?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "236": {
+        "URL": [
+            "https://www.pinterest.com/pin/410390584806121785/",
+            "https://www.pinterest.com/pin/294211788169921423/"
+        ],
+        "Image path": [
+            "6ec0e46d-beb9-44df-9719-ef0da900b67d.png",
+            "17f1f251-c56a-47de-951d-28eda8ffbdf7.png"
+        ],
+        "Question": "Which character do these 2 images have in common",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "237": {
+        "URL": [
+            "https://www.pinterest.com/pin/412853490839435294/"
+        ],
+        "Image path": [
+            "e2ac87ba-f302-414b-bd59-18526b9f9f18.png",
+            "293c6b2a-5f01-4f52-97c3-04898b0ea0f0.png"
+        ],
+        "Question": "Look at the trend between 1st and 2nd images. What will be the 3rd image?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "238": {
+        "URL": [
+            "https://www.pinterest.com/pin/774830310912322865/",
+            "https://www.pinterest.com/pin/19421842122400927/"
+        ],
+        "Image path": [
+            "0a9cd8ae-3616-4763-ac72-29fddfbf6cb8.png",
+            "643c5dec-eee1-4af3-b13b-db6485dcb8e4.png"
+        ],
+        "Question": "What would be the common mood when people see these 2 images?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "239": {
+        "URL": [
+            "https://www.pinterest.com/pin/576460821074596755/",
+            "https://www.pinterest.com/pin/518195500858217594/"
+        ],
+        "Image path": [
+            "1932f975-8524-4198-b58c-aa5ab22f5e29.png",
+            "ee3a74ec-cace-417d-ace2-f3bc57c6a544.png"
+        ],
+        "Question": "What do the above two images want to express",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "240": {
+        "URL": [
+            "https://quotesndnotes.tumblr.com/post/183636697736/this-is-why-i-have-trust-issues-via"
+        ],
+        "Image path": [
+            "3f43f598-5e6f-4ef2-8d6d-b3109378c3d9.png",
+            "f78ef32b-98c6-453c-b67d-4758f9e243e8.png"
+        ],
+        "Question": "Why do these cause trust issues?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "241": {
+        "URL": [
+            "https://s.wsj.net/public/resources/images/IF-AD315_APP_he_M_20171101152959.jpg"
+        ],
+        "Image path": [
+            "IF-AD315_APP_he_M_20171101152959.jpg"
+        ],
+        "Question": "What is the likely reason for the laminated paper in the open case on the ground?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "242": {
+        "URL": [
+            "https://media.npr.org/assets/img/2015/04/06/old-parking-signs-2_custom-1f9708bd8933d55f7b88b3d79099c52f62a3cf5d-s800-c85.webp"
+        ],
+        "Image path": [
+            "eadd5cda-cd99-4217-9b75-495ac4c9b3d1.png"
+        ],
+        "Question": "Can I park here on Saturdays at 5pm, and if so, for how long?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "244": {
+        "URL": [
+            "https://i0.wp.com/geoffboeing.com/wp-content/uploads/2015/08/greenland-vs-africa-mercator-projection.jpg?ssl=1"
+        ],
+        "Image path": [
+            "7fc24eb8-2c58-45e5-9f08-fc6a9d2e5323.png"
+        ],
+        "Question": "Why doesn't the size of the green shape change?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "246": {
+        "URL": [
+            "https://usa.lkk.com/en/recipes/hainanese-chicken-rice"
+        ],
+        "Image path": [
+            "65d07c58-f6bd-445a-9ad2-174b45955ee5.png"
+        ],
+        "Question": "Does that chicken usually contain bones?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "249": {
+        "URL": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/REMA_1000_Supermarket_interior_grocery_store_T%C3%B8nsberg%2C_Norway_2017-11-03_fruit_vegetables.jpg/1600px-REMA_1000_Supermarket_interior_grocery_store_T%C3%B8nsberg%2C_Norway_2017-11-03_fruit_vegetables.jpg"
+        ],
+        "Image path": [
+            "03ccca68-cf51-4c7f-b312-5cea847842ed.png"
+        ],
+        "Question": "How much I need to pay if I want to buy 2KG of bananas and 1KG of klementin?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "252": {
+        "URL": [
+            "https://t1.gstatic.com/images?q=tbn:ANd9GcQIn6IeKmoRNG9GPITMXCAD_lH__Ig4mQmTpUdanfnJBGj8MFlQ"
+        ],
+        "Image path": [
+            "8e819b70-b746-46e1-a9ef-7787fbd6092c.png"
+        ],
+        "Question": "What color is the 3rd largest ball in this image?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "254": {
+        "URL": [
+            "https://hi-static.z-dn.net/files/d82/c7c8ebb065a8f229a6c859c7bb538fb2.png"
+        ],
+        "Image path": [
+            "a67d568b-18c0-49ab-b04a-47ecdcc527d8.png"
+        ],
+        "Question": "Can you solve this?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "255": {
+        "URL": [
+            "https://pbs.twimg.com/media/BudjRznIAAAyCaN?format=jpg&name=small"
+        ],
+        "Image path": [
+            "a5d9cd08-1587-49d6-ad04-127963065e0a.png"
+        ],
+        "Question": "Explain this image to me ",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "257": {
+        "URL": [
+            "https://safespecial.com/media/catalog/product/cache/ec21c974bcf96854edebe6c29476606e/n/c/nc0461-b_2.jpg"
+        ],
+        "Image path": [
+            "91a24116-7b4f-4ff4-8908-5c8c8b9c980d.png"
+        ],
+        "Question": "What time is it?",
+        "Category": "Deductive",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "258": {
+        "URL": [
+            "https://i.pinimg.com/564x/06/79/35/067935632e49f32b6c7e85c5cfbcdfca.jpg"
+        ],
+        "Image path": [
+            "ee678728-0379-4517-be7f-47f3a69a615f.png"
+        ],
+        "Question": "what animal is in the 4th row and second column?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "259": {
+        "URL": [
+            "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQStgb5XOy6rg0XwTvy9nQXAx0xuuELAAPva93CRrMq0ZAyBdmV"
+        ],
+        "Image path": [
+            "373cc3de-0a57-4550-add4-aece43ca615d.png"
+        ],
+        "Question": "The photo was taken around 12:00pm in the northern hemisphere. Which direction are these people headed?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "260": {
+        "URL": [
+            "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKEz-9L4r6Fi5gLmWNR8pyzIZZ30LWdcMSwd2sG1_Abi8oRUU4"
+        ],
+        "Image path": [
+            "dabfedf8-6dae-47c4-a3da-9f7ee25538a8.png"
+        ],
+        "Question": "I want to park my car inside. Which door should I open, left one or right one?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "261": {
+        "URL": null,
+        "Image path": [
+            "34039c41-a84b-4994-8bfb-7493908ec4c2.png"
+        ],
+        "Question": "Which word do the plots of these 4 equations resemble? Note that for the first equation, you only need to look at the positive half of x.",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "263": {
+        "URL": null,
+        "Image path": [
+            "cce17e23-7e3c-445d-827d-fe4ca69b21b8.png"
+        ],
+        "Question": "Which square below is correct?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "264": {
+        "URL": [
+            "https://i.pinimg.com/564x/09/f7/82/09f782681eba524734ab600f553ceedc.jpg"
+        ],
+        "Image path": [
+            "1497fd33-2636-4f0a-b5db-ad2768b21ae8.png"
+        ],
+        "Question": "What number could the question mark be?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "265": {
+        "URL": [
+            "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR78Slte3DlU-u74GE_WVMICnxZXqvIzcSjNsp-q6dtxlwVAtte"
+        ],
+        "Image path": [
+            "44faad6e-bdb9-4e1f-af21-af694ab885c4.png"
+        ],
+        "Question": "Can I cross the street?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "266": {
+        "URL": [
+            "https://wunderkiddy.com/media/item-files/colored-blocks-912-x-2048.jpg"
+        ],
+        "Image path": [
+            "cafdc8f7-52bf-4b69-88b1-08ef32f9b3d0.png"
+        ],
+        "Question": "Which color covers more area?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "267": {
+        "URL": [
+            "https://m.media-amazon.com/images/I/61U1iJTpqsL._AC_SX679_.jpg"
+        ],
+        "Image path": [
+            "8206af64-57ad-4255-87f3-3ad8115741aa.png"
+        ],
+        "Question": "How many levels of the shelf have non-plant objects on them?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "268": {
+        "URL": [
+            "https://www.pinterest.com/pin/992832680336606793/"
+        ],
+        "Image path": [
+            "a8a0fbba-a603-4ee0-adb4-5c061c461ad3.png"
+        ],
+        "Question": "Who's winning?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "269": {
+        "URL": [
+            "https://www.pinterest.com/pin/289426713568053474/"
+        ],
+        "Image path": [
+            "5fb41de2-268c-4e7a-89a4-bf50b8a45118.png"
+        ],
+        "Question": "What will happen to those cups?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "271": {
+        "URL": [
+            "https://www.pinterest.com/pin/948570740245791212/"
+        ],
+        "Image path": [
+            "5c80f9e7-82fa-4b52-8549-7fe5cbf1e696.png"
+        ],
+        "Question": "How old is this woman?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "272": {
+        "URL": [
+            "https://c1.wallpaperflare.com/preview/732/588/12/candles-light-kindle-flame.jpg"
+        ],
+        "Image path": [
+            "e7791a66-cf38-4b15-bde2-2b847ec835c1.png"
+        ],
+        "Question": "How many candles are lit?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "273": {
+        "URL": [
+            "https://www.pinterest.com/pin/435371489116891705/"
+        ],
+        "Image path": [
+            "749d375e-75b8-45cf-a088-0a4810f3c1eb.png"
+        ],
+        "Question": "Is this photo taken from the original DaVinci painting?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "274": {
+        "URL": [
+            "https://www.pinterest.com/pin/42573158970838080/"
+        ],
+        "Image path": [
+            "bb3a8c2e-0df9-4cb3-87d5-d28da74901db.png"
+        ],
+        "Question": "If I want to switch on the light, in which direction should I press the switch?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "276": {
+        "URL": [
+            "https://www.pinterest.com/pin/758082549801875810/"
+        ],
+        "Image path": [
+            "87ee7ef5-6f6f-4ef6-8a09-46999c67cde4.png"
+        ],
+        "Question": "Which one should I throw away after I drink a bottle of Coke?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "277": {
+        "URL": [
+            "https://www.istockphoto.com/collaboration/boards/nv6bGJPeeE-368zmcJXP5w"
+        ],
+        "Image path": [
+            "9c78eda4-a7d6-4162-a1ee-23b1d4ff4233.png"
+        ],
+        "Question": "What words can you see from this image? What can you imagine when you see this image?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "278": {
+        "URL": [
+            "https://www.istockphoto.com/photo/group-of-sweet-and-salty-snacks-perfect-for-binge-watching-gm1149135424-310579769?phrase=food+and+drink"
+        ],
+        "Image path": [
+            "760d010c-6667-4946-8480-f6c3254cc5e8.png"
+        ],
+        "Question": "Is this diet good for me if I'm doing bodybuilding?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "279": {
+        "URL": [
+            "https://www.istockphoto.com/photo/pastel-colored-pumpkins-with-light-gray-background-for-thanksgiving-gm1344866269-423099614?phrase=holidays+and+seasonal"
+        ],
+        "Image path": [
+            "5e14e4b9-3a77-485f-9fb0-6a8aacc2abb3.png"
+        ],
+        "Question": "Which color do smaller pumpkins have that doesn't exist in bigger pumpkins?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "280": {
+        "URL": [
+            "https://www.pinterest.com/pin/425871708524205241/"
+        ],
+        "Image path": [
+            "2ccb6f0c-ae1b-42d1-8ce0-47633a5e0d36.png"
+        ],
+        "Question": "Where can I see this sign?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "281": {
+        "URL": [
+            "https://www.pinterest.com/pin/307581849563229749/"
+        ],
+        "Image path": [
+            "6e851c9b-aff1-4866-b19d-60632cb5f7d2.png"
+        ],
+        "Question": "Which state and what's the number of the plate hung below Colorado license plate?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "283": {
+        "URL": [
+            "https://www.pinterest.com/pin/70368812914861259/"
+        ],
+        "Image path": [
+            "de12fc2a-cc4e-4681-bd2e-51a5352d86e6.png"
+        ],
+        "Question": "What number should the question mark be?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "284": {
+        "URL": [
+            "https://www.pinterest.com/pin/1048635094458212315/"
+        ],
+        "Image path": [
+            "a13adc4b-a7f3-4a79-897f-7ffb4c87cfac.png"
+        ],
+        "Question": "What is the number of the parking spot covered by the car",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "286": {
+        "URL": [
+            "https://www.pinterest.com/pin/583497695492807388/"
+        ],
+        "Image path": [
+            "d4884b5b-971b-4a8e-88e9-cf353a8c9b77.png"
+        ],
+        "Question": "I received this postcard on my birthday. Can you guess what day my birthday is?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "287": {
+        "URL": [
+            "https://www.pinterest.com/pin/1014717359770258173/"
+        ],
+        "Image path": [
+            "02d3224c-6732-4996-8e61-54630db08963.png"
+        ],
+        "Question": "What is the speed limit according to this image?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "288": {
+        "URL": [
+            "https://www.pinterest.com/pin/984458799774822406/"
+        ],
+        "Image path": [
+            "6699c8a7-a714-465d-8d53-5115a8bdcfcb.png"
+        ],
+        "Question": "What will happen? What will happen if I switch the positions of the coin and nail connected by the blue and red lines?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "290": {
+        "URL": [
+            "https://www.freshoffthegrid.com/wp-content/uploads/Grilled-Burger-Camping-Recipe-3.jpg.webp"
+        ],
+        "Image path": [
+            "f1e2e357-c202-4a67-a529-f92cb98962bd.png"
+        ],
+        "Question": "What food is this man making?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "291": {
+        "URL": [
+            "https://www.pinterest.com/pin/158963061836204598/"
+        ],
+        "Image path": [
+            "31afef1a-4345-4f7a-8fa6-9f55e01b3470.png"
+        ],
+        "Question": "Why is this painting funny?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "292": {
+        "URL": [
+            "https://i.insider.com/55c3e9002acae7c7018bde53?width=600&format=jpeg&auto=webp"
+        ],
+        "Image path": [
+            "6a7f0448-abd6-4bb1-a692-212fd1c78346.png"
+        ],
+        "Question": "I'm allergic to synthetic chemicals. Which side suits me?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "293": {
+        "URL": [
+            "https://foodstruct.com/compareimages/tea-vs-carbonated-water.jpg"
+        ],
+        "Image path": [
+            "60dc0bc0-d1ed-442f-b94c-6c9800554a60.png"
+        ],
+        "Question": "I'm tired but need to work. Which one should I drink?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "294": {
+        "URL": [
+            "https://i.ytimg.com/vi/EvWgKYTJ5BE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD2r_Cckwb3eD2Sg74zzKo4ZYzGTA"
+        ],
+        "Image path": [
+            "6860a649-df48-43d3-9bda-9f9aabc32f27.png"
+        ],
+        "Question": "What time is it in Los Angeles when this photo was taking?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "295": {
+        "URL": [
+            "https://media.istockphoto.com/id/544472956/photo/old-fence-starry-night-polaris-star-ursa-major-big-dipper.jpg?s=170667a&w=0&k=20&c=QYrui4o4wPWwWozbnOGhi8YjctV0JyYoaOQbCF1zONE="
+        ],
+        "Image path": [
+            "48f969cf-f94e-40d6-bf3a-828061bfe8f4.png"
+        ],
+        "Question": "Which direction am I facing when I take this photo?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "296": {
+        "URL": [
+            "https://www.pinterest.com/pin/188940146858994350/"
+        ],
+        "Image path": [
+            "07a18509-1909-492a-88f6-b0e955377cff.png"
+        ],
+        "Question": "What does this image want to convey?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "299": {
+        "URL": [
+            "https://www.pinterest.com/pin/14777505018818470/",
+            "https://www.pinterest.com/pin/446700856799513076/"
+        ],
+        "Image path": [
+            "b7c67066-2d0f-4e26-bbb7-c3a6bdffa55c.png",
+            "805dad1e-0722-4a66-8391-493dc5fa3e3a.png"
+        ],
+        "Question": "What environmental factor primarily accounts for the differences observed between the two images?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "301": {
+        "URL": [
+            "https://www.pinterest.com/pin/1094374778200074208/",
+            "https://www.pinterest.com/pin/727049933606237367/"
+        ],
+        "Image path": [
+            "a3129477-b77b-4bf0-af2d-deafa71f2467.png",
+            "209a0cb9-8a64-4d11-b87e-3bc1ef7761d8.png"
+        ],
+        "Question": "What could account for the striking difference in appearance?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "302": {
+        "URL": [
+            "https://cdn.testingmom.com/uploads/NNAT-Reasoning-by-Analogy-Sample-Question.png"
+        ],
+        "Image path": [
+            "0864c446-afe1-4dd2-8c51-b48134c59e45.png"
+        ],
+        "Question": "Which image should I choose to fill in the area with the dotted line?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "303": {
+        "URL": [
+            "https://www.testprep-online.com/media/28938/serial-reasoning.png?width=475&height=338"
+        ],
+        "Image path": [
+            "850eb86e-f625-4fd7-859a-043919ced90d.png"
+        ],
+        "Question": "Which image should I choose to fill in the area with the dotted line?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "304": {
+        "URL": [
+            "https://www.pinterest.com/pin/116038127877873495/",
+            "https://www.pinterest.com/pin/478507529171985173/"
+        ],
+        "Image path": [
+            "91096124-df1e-42e3-b7c8-7a1929e154f4.png",
+            "6c6cf5b9-2fd6-4481-81c1-a69bf54e8878.png"
+        ],
+        "Question": "What is the action for the second image, as to using biodegradable materials for the first image?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "305": {
+        "URL": [
+            "https://www.pinterest.com/pin/510947520204982185/",
+            "https://www.pinterest.com/pin/469711436148308633/"
+        ],
+        "Image path": [
+            "008e4701-2897-4267-bb9a-45439f9522f0.png",
+            "b4abfdf9-fec3-4d51-9a0f-7ad742c93cc9.png"
+        ],
+        "Question": "What is the measure taken for the object in the second image, similarly to the fact that the main object in the first image is usally found on some mountains?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "307": {
+        "URL": [
+            "https://cdn.ebaumsworld.com/mediaFiles/picture/2117880/83352760.jpg",
+            "https://picx.zhimg.com/80/v2-8ef43147b817b11297a6261d51b224a0_1440w.webp?source=1940ef5c",
+            "https://picx.zhimg.com/80/v2-c071e28ad12886adf70d6e2bb06b3766_1440w.webp?source=1940ef5c"
+        ],
+        "Image path": [
+            "2c587b39-9b18-4d6e-8af8-1945ebba1679.png",
+            "9f0e4171-899e-47f3-8b60-75d1fa5b3c56.png",
+            "65f256e4-0790-4324-99f0-b68b18262b2c.png"
+        ],
+        "Question": "Judging from these images, how does the size of the leftmost star in the first row of the first image compare to the leftmost star in the second row in the third image?",
+        "Category": "Deductive",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "308": {
+        "URL": [
+            "https://i.pinimg.com/564x/b0/cb/a4/b0cba40bbce5264a939c480d35eaa32e.jpg",
+            "https://www.pinterest.com/pin/728105464734058192/",
+            "https://i.pinimg.com/564x/e9/1d/35/e91d35a134c48adb65322b276d93b2fc.jpg"
+        ],
+        "Image path": [
+            "def5be85-9562-47e8-9685-f45c8a9b7f45.png",
+            "41015fee-8618-4457-adfd-02f84fabfdc3.png",
+            "e91d35a134c48adb65322b276d93b2fc.png"
+        ],
+        "Question": "Based on the first two images, what is more likely in the third image?",
+        "Category": "Analogical",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "309": {
+        "URL": [
+            "https://www.youtube.com/watch?v=DlqXePe4Hpk"
+        ],
+        "Image path": [
+            "7025190d-bb69-475c-a903-be4203b011a5.png",
+            "6a03191d-73bc-479d-b155-f286ec297366.png",
+            "652f906c-fa5c-49dc-88a4-643306975ebc.png",
+            "a7a09936-71ed-4cf6-9eaf-727e5ee811f4.png",
+            "d45bf76e-6539-4dd5-a609-bd12a7885417.png",
+            "cb770e0b-1307-4911-a94b-4eb30b371f0d.png"
+        ],
+        "Question": "If the first two images are of a man running like a penguin, and the third and fourth are of a man running like a sloth, what would the fifth and sixth images be?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "310": {
+        "URL": [
+            "https://www.youtube.com/watch?v=hhhUTHCHKcE"
+        ],
+        "Image path": [
+            "b0363ba6-6911-4d14-b421-94afbd6ef91d.png",
+            "b430e8ca-db17-4bef-bb6d-e2a740091cc2.png",
+            "61ecf340-f5cd-4022-91a3-79e7b047dc36.png"
+        ],
+        "Question": "Why does this happen if the man touches stainless steel?",
+        "Category": "Analogical",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "311": {
+        "URL": [
+            "https://www.youtube.com/watch?v=b1fassGOc1E"
+        ],
+        "Image path": [
+            "1ba2643e-bc78-4e39-956b-74d18742f519.png",
+            "7816200a-7f73-4847-a0f2-3a150ceebbf5.png",
+            "6b69d114-b83b-4497-82e5-b722795a7865.png",
+            "7f790044-1527-47f6-a3f9-f899199aca42.png"
+        ],
+        "Question": "Based on these images you see while walking, what happened to the dead man?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "312": {
+        "URL": [
+            "https://www.pinterest.com/pin/848084173599817481/"
+        ],
+        "Image path": [
+            "e2a1e594-4d95-4566-957f-1b8ccb538125.png",
+            "daad4687-4682-461b-a316-c69508b852fe.png",
+            "c5ad062a-bdef-436a-bdbf-57768feee82e.png",
+            "9a2ad4c5-2c6b-46a8-be4d-e26fd4684041.png"
+        ],
+        "Question": "Look at the first 3 images. Which app should the 4th image be?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "313": {
+        "URL": [
+            "https://www.pinterest.com/pin/402509285460148821/",
+            "https://www.pinterest.com/pin/260927372131862404/"
+        ],
+        "Image path": [
+            "d9cd0696-f5c2-4e9c-bf8b-72e77f7bff02.png",
+            "6ea68a2b-3050-4d01-a673-3c0c33e8cb5e.png",
+            "e30d9b56-de05-473f-89a1-c84074b80017.png"
+        ],
+        "Question": "According to the 1st image, if the 2nd image corresponds to the word 'London', what word should correspond to the 3rd image?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "316": {
+        "URL": [
+            "https://www.pinterest.com/pin/466474473915572204/",
+            "https://www.pinterest.com/pin/982558843685695821/"
+        ],
+        "Image path": [
+            "fba6d48b-aea6-4ee0-8451-3f627aba6097.png",
+            "433b7cd4-f347-4167-b61e-a1d9df405b05.png"
+        ],
+        "Question": "Given the Braille alphabet, tell me the message in the second image.",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "317": {
+        "URL": [
+            "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzyk-iS45ClYhI7_C6Qb-ZcWO5H_JyGF-SjHaF2lUdj7R4TdGf"
+        ],
+        "Image path": [
+            "10f40912-14b2-40eb-8f49-2bbab90ec3e0.png"
+        ],
+        "Question": "Is the scene in this image real?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "319": {
+        "URL": [
+            "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJRGx2rCkqupp_mObaP6Eh1z4TMOmrO0Zc2QSecgxYMFb_9NFw"
+        ],
+        "Image path": [
+            "aba63bab-d69e-4aec-b77a-414cb7fb6bd8.png"
+        ],
+        "Question": "Where can you find the plant in this image",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "320": {
+        "URL": [
+            "https://i.pinimg.com/564x/ef/9b/0d/ef9b0d2695855cc6ccf483ff01f30c58.jpg"
+        ],
+        "Image path": [
+            "ef9b0d2695855cc6ccf483ff01f30c58.jpg"
+        ],
+        "Question": "Why is the lower one labeled 'on'?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "322": {
+        "URL": [
+            "https://i.pinimg.com/564x/51/18/31/511831073973e2ad699ebd1e03617e06.jpg",
+            "https://www.hollywoodreporter.com/wp-content/uploads/2015/01/clint_eastwood_pga_-_h_-_2015.jpg?w=2000&h=1126&crop=1",
+            "https://media.gq.com/photos/6144d622181a410604dd3ede/16:9/w_1920,c_limit/MCDCRMA_WB005.jpg"
+        ],
+        "Image path": [
+            "511831073973e2ad699ebd1e03617e06.jpg",
+            "MCDCRMA_WB005.webp",
+            "clint_eastwood_pga_-_h_-_2015.webp"
+        ],
+        "Question": "Based on the first image, if the second image is called Eastface, what should we call the third image?",
+        "Category": "Analogical",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "325": {
+        "URL": [
+            "https://i.pinimg.com/564x/e2/c4/fe/e2c4fe8189660545628ff74be28d072a.jpg"
+        ],
+        "Image path": [
+            "e2c4fe8189660545628ff74be28d072a.jpg"
+        ],
+        "Question": "According to the image, what should we name the image where each of these two bears only has one ear?",
+        "Category": "Analogical",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "326": {
+        "URL": [
+            "https://i.redd.it/gxtyrvxuu3qz.jpg",
+            "https://www.thesun.co.uk/wp-content/uploads/2018/01/nintchdbpict000378995039.jpg?w=620"
+        ],
+        "Image path": [
+            "gxtyrvxuu3qz.jpg",
+            "nintchdbpict000378995039.jpg"
+        ],
+        "Question": "According to the first image, when would something go wrong in the second image?",
+        "Category": "Analogical",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "327": {
+        "URL": [
+            "https://www.flickr.com/photos/erko_ever/51178578403/in/photolist-Zmn9yF-WGedPJ-CZCfXj-21B2tYG-FgcJpj-2nkYYKu-wWNx7n-mryA5V-2fBqkxp-DX9nbH-BW9BF1-2hAdT8T-pe1WLo-ZqVA9a-isHkxB-nvnhz5-T4LGvd-Jo2MC6-9JUzuk-2iL5Qjq-ENrChq-CKhoKb-2kC6bgN-22eti6G-vBNMmk-KNk74L-2kYtAjP-27G6Gid-2chkBiK-7dPxuj-22GRATS-2jCvSzi-Znd3Cz-ozh3eF-VLExpj-wGWN1u-VsTRH7-YNCSQ2-ptfjN1-8XvA9z-2bDEamV-D1mTkT-2nvrycc-2oRoe6b-2kjcaWp-UpaWT9-27WyTCj-CnZHDr-KaWMBs-PHuD11"
+        ],
+        "Image path": [
+            "e19e569c-420a-4a92-9218-7d0b4cc38ae2.png"
+        ],
+        "Question": "What kind of dangerous thing will happen in this picture if it's summer outside?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "329": {
+        "URL": [
+            "https://www.flickr.com/photos/50313616@N03/39159851135/in/dateposted/"
+        ],
+        "Image path": [
+            "75312e04-0dcf-482b-b5a1-47bda36ff715.png"
+        ],
+        "Question": "Will the car stop in front of people?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "331": {
+        "URL": [
+            "https://i.pinimg.com/564x/85/84/a3/8584a3b671b6babf365fe967fdbb47b6.jpg"
+        ],
+        "Image path": [
+            "995e4b25-8f9f-418e-9a33-1b8d49f8b9ba.png"
+        ],
+        "Question": "This is an advertisement. What is the intention behind the designer placing the product in the sky?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "333": {
+        "URL": [
+            "https://i.pinimg.com/564x/65/32/18/653218eadb74f79a9f5333b14701247a.jpg"
+        ],
+        "Image path": [
+            "a4c75ad4-5e6d-4cef-b99c-79dcedf7e9f3.png"
+        ],
+        "Question": "Who will you recall after seeing this image?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "334": {
+        "URL": [
+            "https://i.pinimg.com/564x/ea/de/b9/eadeb995197236ca0f95e06a297c0638.jpg"
+        ],
+        "Image path": [
+            "696dfa1f-642f-413f-9b0f-96ebd572b3b3.png"
+        ],
+        "Question": "Why does the bike look abnormal?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "335": {
+        "URL": [
+            "https://www.flickr.com/photos/skynomad/53077924189/in/dateposted/"
+        ],
+        "Image path": [
+            "41073bdb-bde2-4afe-a924-30e708925fac.png"
+        ],
+        "Question": "Explain to me why the man in the image can perform this action?",
+        "Category": "Abductive",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "336": {
+        "URL": [
+            "https://i.pinimg.com/564x/77/18/95/77189534d5838acc423d8bedab9f4d2a.jpg"
+        ],
+        "Image path": [
+            "b5f9618a-895e-4a26-b3a2-889851e6bdc2.png"
+        ],
+        "Question": "According to the image, how would the size of the grille of a 2010 BMW model compare to the one in 2020?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "337": {
+        "URL": [
+            "https://i.pinimg.com/564x/45/36/8a/45368ab52dad586f49a985c1ea841e55.jpg"
+        ],
+        "Image path": [
+            "43f64aae-36c7-4c48-a389-58b10901034a.png"
+        ],
+        "Question": "How many faces can be identified in this image?",
+        "Category": "Deductive",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "338": {
+        "URL": [
+            "https://i.pinimg.com/564x/03/ed/2e/03ed2e46b555c77c0ce7ed7a91d88dfe.jpg"
+        ],
+        "Image path": [
+            "ce602563-d77e-4d2c-8c4a-95808071aac9.png"
+        ],
+        "Question": "Explain why this image is funny?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "339": {
+        "URL": [
+            "http://5b0988e595225.cdn.sohucs.com/images/20190922/f8861750182947db99f36ddc06b44583.jpeg"
+        ],
+        "Image path": [
+            "7ae0b232-5bd2-4eba-b4f0-23310d4de26d.png"
+        ],
+        "Question": "Why would it be a good shot if the basketball falls into the basket?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "340": {
+        "URL": [
+            "https://k.sinaimg.cn/n/translate/20170712/FNJJ-fyhwret3506362.jpg/w700d1q75cms.jpg?by=cms_fixed_width"
+        ],
+        "Image path": [
+            "524b13f3-4728-42f3-af12-7ce5b9b9d346.png"
+        ],
+        "Question": "Is this image real or fake? Why?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "343": {
+        "URL": [
+            "https://i.pinimg.com/564x/9f/54/e2/9f54e213dd9fc31440fa7fe63710810a.jpg"
+        ],
+        "Image path": [
+            "b97c1849-9a17-4a27-bc6a-d9c0837c80fe.png"
+        ],
+        "Question": "How to use this golve in the film?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "344": {
+        "URL": [
+            "https://i.pinimg.com/564x/bd/38/2b/bd382b8faa587b4f5645c7a1aa54945c.jpg"
+        ],
+        "Image path": [
+            "c51453a1-2364-4759-9f35-e87385ed8c41.png"
+        ],
+        "Question": "What is the name of another weapon owned by the owner of this hammer?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "345": {
+        "URL": [
+            "https://i.pinimg.com/564x/56/2b/f4/562bf4382a679b3dd78e26806c6155ca.jpg"
+        ],
+        "Image path": [
+            "79732981-866c-4565-bad4-2ebdf79daa34.png"
+        ],
+        "Question": "Why is this poster on the market shelves?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "346": {
+        "URL": [
+            "https://i.pinimg.com/564x/da/b1/a1/dab1a147416d7c9d430f1ff1197a5e50.jpg"
+        ],
+        "Image path": [
+            "5fe0cc61-b316-4797-af81-90253a6b82c3.png"
+        ],
+        "Question": "Looking at the image, which movie does this image imply?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "347": {
+        "URL": [
+            "https://i.pinimg.com/564x/98/0f/a3/980fa3d7422920ce9d395626981512a5.jpg"
+        ],
+        "Image path": [
+            "b414b9e9-794a-45f2-a108-c1534c4d95a5.png"
+        ],
+        "Question": "What is the nickname of this shoe in China?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "350": {
+        "URL": [
+            "https://www.pinterest.com/pin/909656824728450560/"
+        ],
+        "Image path": [
+            "e43a22e5-6061-4b72-9c26-ea171db27d16.png"
+        ],
+        "Question": "What is this prepared for?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "351": {
+        "URL": [
+            "https://i.pinimg.com/564x/e9/4d/cb/e94dcbe1d9ccea021cadbade1db94f55.jpg"
+        ],
+        "Image path": [
+            "f92cb395-a569-47b4-a003-2a8b86366185.png"
+        ],
+        "Question": "What is the relationship between the woman who occupies the largest area in the image and the woman who occupies the second smallest area?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "353": {
+        "URL": [
+            "https://i.pinimg.com/564x/73/08/cf/7308cfb11a4b687a62a451787297a853.jpg"
+        ],
+        "Image path": [
+            "523df717-7031-47ad-9af5-33f7068fbfb9.png"
+        ],
+        "Question": "If I want to go diving, will the red bottle help me?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "357": {
+        "URL": [
+            "https://i.pinimg.com/564x/57/92/03/57920349f95ee92cf7efa5cae926704c.jpg"
+        ],
+        "Image path": [
+            "dbf4b3bd-4428-466b-bb73-977f4e369574.png"
+        ],
+        "Question": "Is it dangerous in this image?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "358": {
+        "URL": [
+            "https://i.pinimg.com/564x/57/92/03/57920349f95ee92cf7efa5cae926704c.jpg"
+        ],
+        "Image path": [
+            "dbf4b3bd-4428-466b-bb73-977f4e369574.png"
+        ],
+        "Question": "Explain the text in the image and why this image is captioned with these texts?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "359": {
+        "URL": [
+            "https://i.pinimg.com/564x/f5/38/9c/f5389c5ceec12d0d4f78fd3ec68b91c2.jpg"
+        ],
+        "Image path": [
+            "476013bb-f510-4836-8522-28b9d65b2d5d.png"
+        ],
+        "Question": "Why is the person wearing a helmet?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "361": {
+        "URL": [
+            "https://i.pinimg.com/564x/7d/60/78/7d60787ae6cedb04ec0feb7926d97738.jpg"
+        ],
+        "Image path": [
+            "57f2b8dd-cf07-4851-873a-af5873753733.png"
+        ],
+        "Question": "If I am a programmer, is this setup suitable for me?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "362": {
+        "URL": [
+            "https://i.pinimg.com/564x/b4/fd/13/b4fd13924704d2c63074fe88036abaab.jpg"
+        ],
+        "Image path": [
+            "e42994fc-3111-497c-a90a-5e779877f729.png"
+        ],
+        "Question": "If this crack continues to grow, which season is probably approaching\uff1f",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "364": {
+        "URL": [
+            "https://i.pinimg.com/564x/9a/6c/f5/9a6cf53d2e60ed04e282eab3a2fce40a.jpg"
+        ],
+        "Image path": [
+            "c05745bf-d01d-4b72-89b0-cd620afd50dd.png"
+        ],
+        "Question": "What could be this person's profession?",
+        "Category": "Deductive",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "366": {
+        "URL": [
+            "https://i.pinimg.com/564x/b5/3d/2b/b53d2bc1c9508c3ec2497220f5887e1e.jpg"
+        ],
+        "Image path": [
+            "9af42d05-d56d-409a-822a-a16c522f54ef.png"
+        ],
+        "Question": "What is the relationship between the word and the three cartoon animals in the middle of the image?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "367": {
+        "URL": [
+            "https://i.pinimg.com/564x/96/09/9f/96099f6eaaddabd7a3bd322ba85eb2ce.jpg"
+        ],
+        "Image path": [
+            "a2270e56-70e8-48d0-ba5d-3f0fc84e3ae8.png"
+        ],
+        "Question": "\nWhy did the mom make her kid wear that outfit?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "368": {
+        "URL": [
+            "https://i.pinimg.com/564x/37/63/33/376333a60861b0611b6ab5896fa19bcb.jpg"
+        ],
+        "Image path": [
+            "58cac484-7073-417d-8175-975503944218.png"
+        ],
+        "Question": "Why is this cigarette lit? ",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "370": {
+        "URL": [
+            "https://i.pinimg.com/564x/33/6d/6c/336d6ca2582a86c7c59e207a91b97760.jpg"
+        ],
+        "Image path": [
+            "7d0595c9-c028-40d6-a067-700af04b165e.png"
+        ],
+        "Question": "\nWhich movie character does this image refer to?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "371": {
+        "URL": [
+            "https://i.pinimg.com/564x/cb/99/86/cb998682c2863a9dcb887a368dc3267e.jpg"
+        ],
+        "Image path": [
+            "cf3f066c-fdb2-4552-9f83-62c4f411cf1c.png"
+        ],
+        "Question": "Why is this image funny?",
+        "Category": "Abductive",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "372": {
+        "URL": [
+            "https://i.pinimg.com/564x/50/fc/52/50fc528d30d2d7b64961b4ba29f84b56.jpg"
+        ],
+        "Image path": [
+            "55db2050-d98f-4c1a-90cb-f0904a4be472.png"
+        ],
+        "Question": "Assuming I have a half-hour free parking ticket, would I be able to purchase the Steak Wellington upon arriving at the supermarket at 10:10 a.m., without incurring a parking fee?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "373": {
+        "URL": [
+            "https://i.pinimg.com/564x/1d/d4/70/1dd4709cfd7a654db58105c67aa0eb68.jpg"
+        ],
+        "Image path": [
+            "cc2f320e-fb53-46b0-8a89-d7ff543926bd.png"
+        ],
+        "Question": "What kind of phone does the driver probably use?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "374": {
+        "URL": [
+            "https://i.pinimg.com/564x/f0/5d/e3/f05de3835765e863536d2ad019cc3fd7.jpg"
+        ],
+        "Image path": [
+            "b2d6c590-f9cd-4f5c-b85e-787b3bb96f99.png"
+        ],
+        "Question": "What does this picture want to emphasize?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "376": {
+        "URL": [
+            "https://i.pinimg.com/564x/1f/4f/e6/1f4fe63306ed3a82493471a6a54cc83b.jpg"
+        ],
+        "Image path": [
+            "1ae31211-2dff-4f1b-9f22-8dd71f7ae2fc.png"
+        ],
+        "Question": "What is the sentence if you connect all the words in each dot? Then, following the sentence, what would you see?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "377": {
+        "URL": [
+            "https://www.pinterest.com/pin/288582288615762055/"
+        ],
+        "Image path": [
+            "77b631fd-e5f4-49f6-ab64-7ff418bcf86e.png"
+        ],
+        "Question": "I'm driving at the speed of 60mph, will I get into trouble?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "378": {
+        "URL": [
+            "https://i.pinimg.com/564x/0f/23/71/0f2371fb328909461dac00b0d3330260.jpg"
+        ],
+        "Image path": [
+            "d97faac1-bbc8-4971-befa-0e75f6d1e721.png"
+        ],
+        "Question": "What's wrong with the Earth?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "379": {
+        "URL": [
+            "https://i.pinimg.com/564x/0f/23/71/0f2371fb328909461dac00b0d3330260.jpg"
+        ],
+        "Image path": [
+            "d97faac1-bbc8-4971-befa-0e75f6d1e721.png"
+        ],
+        "Question": "According to the image, how to cure this patient?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "380": {
+        "URL": [
+            "https://i.pinimg.com/564x/82/23/5f/82235fec26d3a2ce9068720ff0f76407.jpg"
+        ],
+        "Image path": [
+            "daa84a39-a046-4fad-bac5-69ba1160f126.png"
+        ],
+        "Question": "Why do most people crawl toward the letter \"F\"?",
+        "Category": "Abductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "381": {
+        "URL": [
+            "https://i.pinimg.com/564x/ea/14/41/ea1441e690e7bc16676c9e8b12531c4f.jpg"
+        ],
+        "Image path": [
+            "3ad55a4a-64bd-46a5-b70b-18d18f5dfe98.png"
+        ],
+        "Question": "What is the energy source that drives this vehicle?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "384": {
+        "URL": [
+            "https://i.pinimg.com/236x/ae/45/45/ae4545aedc2434c6efa12b4d92651c27.jpg"
+        ],
+        "Image path": [
+            "24663cc9-0c3c-4aee-842c-1e072243089f.png"
+        ],
+        "Question": "What do you need to do when you are driving and see the road ahead as depicted in this image?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "385": {
+        "URL": [
+            "https://i.pinimg.com/564x/4b/de/56/4bde567e1b849eb61b5e60075c46d650.jpg"
+        ],
+        "Image path": [
+            "88556530-6bf0-498b-b797-bb647e801176.png"
+        ],
+        "Question": "Which country does this tree originally come from?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "387": {
+        "URL": [
+            "https://www.pinterest.com/pin/68746261598/"
+        ],
+        "Image path": [
+            "64874114-89dc-441e-8ff5-3e59b49055bf.png"
+        ],
+        "Question": "What season can we infer from this image?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "389": {
+        "URL": [
+            "https://i.pinimg.com/564x/6e/5e/2b/6e5e2bedec1ea4e5e512f62669f487ef.jpg"
+        ],
+        "Image path": [
+            "61658768-4440-478c-9693-acc8fbf698c3.png"
+        ],
+        "Question": "Why does the person wear such a strange mask?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "391": {
+        "URL": [
+            "https://www.pinterest.com/pin/231513237085245161/",
+            "https://www.pinterest.com/pin/832814156109811163/"
+        ],
+        "Image path": [
+            "de94a86e1d17aa281780680e96942637.jpg",
+            "054c612084851a7d046ca5878e55df70.jpg"
+        ],
+        "Question": "If the cycle's initial stage displayed in the second image is \"planning\", which phase in 1st image equates to \"production\" in the supply chain?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "392": {
+        "URL": [
+            "https://www.pinterest.com/pin/4292562137824300/",
+            "https://www.pinterest.com/pin/175429347972604993/"
+        ],
+        "Image path": [
+            "ddd49bdb105b1e7187cc98e1ad6ecb84.jpg",
+            "ba21562944fd3ecf595d7b7e6c67163c.jpg"
+        ],
+        "Question": "Given the context of the first image, which human developmental stage does the second image most aptly depict?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "393": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_7.png"
+        ],
+        "Question": "Find the pattern and answer the given equation in the image.",
+        "Category": "Deductive",
+        "Counter-intuitve": "Yes",
+        "Complexity": "High"
+    },
+    "394": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_8.png"
+        ],
+        "Question": "What will the boy write on the board?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "395": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_9.png"
+        ],
+        "Question": "If I had a Mecedes GLS, how many gallons of gasoline can I get with $50?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "396": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_11.jpg"
+        ],
+        "Question": "What is the total price for a bottle of Merlot and 2 bottles of Cabernet shown in the image?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "397": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_13.jpg"
+        ],
+        "Question": "I am getting two Margherita pizzas and one calzone. How much should I pay in total?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "398": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_15.png"
+        ],
+        "Question": "What is the original price for pork belly before discount?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "399": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_25.png"
+        ],
+        "Question": "Based on the image, what is the total international awareness of Tina Fey?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "400": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_32.png"
+        ],
+        "Question": "What should I do after kneading the dough, before dividing it into pieces?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "401": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_33.png"
+        ],
+        "Question": "Should I add sugar when mixing egg and milk?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "402": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_39.jpg"
+        ],
+        "Question": "What is the step after using probe to spread tire puncture?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "403": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_42.png"
+        ],
+        "Question": "What is the average total fueling cost excluding the Ford F150?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "404": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_46.png"
+        ],
+        "Question": "What is the estimated average standing charge for the year 2023?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "405": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_48.jpg"
+        ],
+        "Question": "In which direction does the terrace face?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "406": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_50.jpg"
+        ],
+        "Question": "Which room is bigger, the double garage or the living room?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "408": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_54.png"
+        ],
+        "Question": "What is the average wait time to climb out of bed?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "409": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_57.jpg"
+        ],
+        "Question": "If in Beijing, orange plus yellow equals nine. What does blue plus red equal in Atlanta?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "410": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_69.jpg"
+        ],
+        "Question": "What are the calories for the entire bag?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "411": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_99.png"
+        ],
+        "Question": "Which are producers in this food web?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "412": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_100.png"
+        ],
+        "Question": "Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature? Sample A or sample B?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "413": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_104.png"
+        ],
+        "Question": "In which country is this photo taken?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "414": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_105.png"
+        ],
+        "Question": "In which country was this photo taken?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "415": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_139.jpg"
+        ],
+        "Question": "Why are the people wearing black clothes?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "416": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_142.jpg"
+        ],
+        "Question": "Is it summertime in the scene?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "Moderate"
+    },
+    "417": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_151.jpg"
+        ],
+        "Question": "Can you explain this meme?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "418": {
+        "URL": [
+            "MM-Vet"
+        ],
+        "Image path": [
+            "v1_153.jpg"
+        ],
+        "Question": "What is funny about this image?",
+        "Category": "Deductive",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "420": {
+        "URL": [
+            "https://www.pinterest.com/pin/537898749241331210/"
+        ],
+        "Image path": [
+            "screenshot-20231102-203001.png"
+        ],
+        "Question": "Look at the first image, what is the mathematical equation implied in the second image?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    },
+    "421": {
+        "URL": [
+            "https://www.pinterest.com/pin/324329610675105498/"
+        ],
+        "Image path": [
+            "screenshot-20231102-203120.png"
+        ],
+        "Question": "Inspired by the image, what does \"Grape.zip\" mean?",
+        "Category": "Analogical",
+        "Counter-intuitve": null,
+        "Complexity": "High"
+    }
+}

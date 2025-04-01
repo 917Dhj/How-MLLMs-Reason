@@ -7,7 +7,7 @@
 ## [导论：多模态大语言模型的概念](report.md#多模态大模型基础概念)
 
 - [**多模态的概念**](report.md#多模态)
-- [**多模态大语言模型（Multimodel Large Language Model）**](report.md#多模态大语言模型（Multimodel Large Language Model）)
+- [**多模态大语言模型（Multimodel Large Language Model）**](report.md#多模态大语言模型（multimodel-large-language-model）)
 - [**多模态感知与生成方式**](report.md#多模态感知与生成方式)
 - [**多模态大语言模型的通用技术框架**](report.md#多模态大语言模型的通用技术框架)
 
@@ -51,11 +51,11 @@ MLLM 首先需要具备接收和理解图像等非语言模态信息的能力，
 
 [1. 有监督学习](report.md#1-有监督学习：通过“教它怎么推理”来提升能力)
 
-[2. 上下文学习+Prompt工程](report.md#2-上下文学习（In-Context Learning）+-Prompt工程)
+[2. 上下文学习+Prompt工程](report.md#2-上下文学习（in-context-learning）+-prompt工程)
 
-[3. 外部工具协作](report.md#3-外部工具协作（Tool-Augmented Reasoning）)
+[3. 外部工具协作](report.md#3-外部工具协作（tool-augmented-reasoning）)
 
 ## [如何评估MLLM的推理能力？](report.md#多模态推理能力评估基准)
 
-## 实验设计：对比不同感知与对齐方式的MLLM的推理能力
+## [实验设计：对比不同感知与对齐方式的MLLM的推理能力](resoning_exp.md#实验：对比不同感知与对齐方式的MLLM的推理能力)
 
