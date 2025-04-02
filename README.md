@@ -7,7 +7,7 @@
 ## [一、导论：多模态大语言模型的概念](report.md#多模态大模型基础概念)
 
 - [**多模态的概念**](report.md#多模态)
-- [**多模态大语言模型（Multimodel Large Language Model）**](report.md#多模态大语言模型（multimodel-large-language-model）)
+- [**多模态大语言模型（Multimodel Large Language Model）**](report.md#多模态大语言模型multimodel-large-language-model)
 - [**多模态感知与生成方式**](report.md#多模态感知与生成方式)
 - [**多模态大语言模型的通用技术框架**](report.md#多模态大语言模型的通用技术框架)
 
@@ -17,7 +17,7 @@
 
 我们认为，这一能力的形成过程不是单一模块或技巧决定的，而是建立在以下**三大系统性环节**之上的：
 
-### [1. 感知与对齐（Perception & Alignment）—— 模型是否“看得见”而且“听得懂”](report.md#核心问题：llm如何理解多模态信息？)
+### [1. 感知与对齐（Perception & Alignment）—— 模型是否“看得见”而且“听得懂”](report.md#核心问题llm如何理解多模态信息)
 
 MLLM 首先需要具备接收和理解图像等非语言模态信息的能力，这包括两个子步骤：
 
@@ -37,9 +37,9 @@ MLLM 首先需要具备接收和理解图像等非语言模态信息的能力，
 
 在完成感知与对齐之后，LLM 实际上已经“看见并听懂了”图像等模态信息。接下来的关键任务，是让语言模型利用这些信息在语义空间中构建逻辑链条，完成真正的推理过程。
 
-#### [LLM是如何实现推理的呢？](report.md#LLM如何实现推理？)
+#### [LLM是如何实现推理的呢？](report.md#LLM如何实现推理)
 
-- 首先要明确，在[大模型中，何为推理？](report.md#什么是推理？)
+- 首先要明确，在[大模型中，何为推理？](report.md#什么是推理)
 - [LLM实现推理的技术机制是什么？](report.md#纯语言模型推理的技术实现机制)
 - [为什么说LLM能推理了，MLLM也就能推理了](report.md#从语言推理任务=>多模态推理)
 
@@ -47,15 +47,15 @@ MLLM 首先需要具备接收和理解图像等非语言模态信息的能力，
 
 ---
 
-## [三、如何增强MLLM的推理能力？](report.md#如何增强MLLM的推理能力？)
+## [三、如何增强MLLM的推理能力？](report.md#如何增强MLLM的推理能力)
 
-[1. 有监督学习](report.md#1-有监督学习：通过“教它怎么推理”来提升能力)
+[1. 有监督学习](report.md#1-有监督学习通过“教它怎么推理”来提升能力)
 
-[2. 上下文学习+Prompt工程](report.md#2-上下文学习（in-context-learning）+-prompt工程)
+[2. 上下文学习+Prompt工程](report.md#2-上下文学习in-context-learning+-prompt工程)
 
-[3. 外部工具协作](report.md#3-外部工具协作（tool-augmented-reasoning）)
+[3. 外部工具协作](report.md#3-外部工具协作tool-augmented-reasoning)
 
 ## [四、如何评估MLLM的推理能力？](report.md#多模态推理能力评估基准)
 
-## [五、实验设计：对比不同感知与对齐方式的MLLM的推理能力](resoning_exp.md#实验：对比不同感知与对齐方式的MLLM的推理能力)
+## [五、实验设计：对比不同感知与对齐方式的MLLM的推理能力](resoning_exp.md#实验对比不同感知与对齐方式的MLLM的推理能力)
 
