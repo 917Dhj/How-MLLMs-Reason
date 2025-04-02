@@ -28,7 +28,7 @@ MLLM 首先需要具备接收和理解图像等非语言模态信息的能力，
 
 - [Q-Former：主动提取摘要特征（信息压缩）](report.md#1-q-formerquery-token对齐)
 - [Patch Embedding：直接将图像切分为 patch 输入（高保真）](report.md#2-直接patch-embedding)
-- [多模态Adapter + Token 映射：轻量转换成语言模型能识别的 token](report.md#3-多模态adapter+token预处理)
+- [多模态Adapter + Token 映射：轻量转换成语言模型能识别的 token](report.md#3-多模态adaptertoken预处理)
 - Prompt 工程：将视觉 token 当作语言 prompt 的前缀注入
 
 只有完成这一步，语言模型才有“接收视觉信息”的可能。
@@ -41,7 +41,7 @@ MLLM 首先需要具备接收和理解图像等非语言模态信息的能力，
 
 - 首先要明确，在[大模型中，何为推理？](report.md#什么是推理)
 - [LLM实现推理的技术机制是什么？](report.md#纯语言模型推理的技术实现机制)
-- [为什么说LLM能推理了，MLLM也就能推理了](report.md#从语言推理任务=>多模态推理)
+- [为什么说LLM能推理了，MLLM也就能推理了](report.md#从语言推理任务到多模态推理)
 
 这些机制综合作用，使模型能在“语言驱动”的前提下实现多模态条件下的逻辑判断。
 
@@ -49,9 +49,9 @@ MLLM 首先需要具备接收和理解图像等非语言模态信息的能力，
 
 ## [三、如何增强MLLM的推理能力？](report.md#如何增强MLLM的推理能力)
 
-[1. 有监督学习](report.md#1-有监督学习通过“教它怎么推理”来提升能力)
+[1. 有监督学习](report.md#1-有监督学习通过教它怎么推理来提升能力)
 
-[2. 上下文学习+Prompt工程](report.md#2-上下文学习in-context-learning+-prompt工程)
+[2. 上下文学习+Prompt工程](report.md#2-上下文学习+prompt工程)
 
 [3. 外部工具协作](report.md#3-外部工具协作tool-augmented-reasoning)
 

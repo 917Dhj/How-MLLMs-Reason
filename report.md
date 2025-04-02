@@ -324,7 +324,7 @@ Input: Tom is taller than Jerry. Jerry is taller than Bob. Who is the tallest?
 
 **综上，这种纯语言推理的机制是<u>未来多模态模型实现复杂推理（如看图+问因果、看图+做计划）的基础能力核心。</u>**
 
-### 从语言推理任务=>多模态推理
+### 从语言推理任务到多模态推理
 
 > [!TIP]
 >
@@ -374,11 +374,11 @@ Input: Tom is taller than Jerry. Jerry is taller than Bob. Who is the tallest?
 - **预训练阶段（Pretraining）**：给模型加入更多有推理逻辑的数据来训练。如，[Lewkowycz等人](https://arxiv.org/abs/2206.14858)将各种数学语料库纳入其训练集中，以提高定量推理能力。
 - **微调阶段（Fine-tuning）**：在已有模型上用一小部分带“指令”的数据再训练一轮。比如，[Rajani 等人](https://arxiv.org/abs/1906.02361)用少量 instruction-tuning 数据集微调 GPT，使其更善于解释性推理。
 
-### 2. 上下文学习（In-Context Learning）+ Prompt工程
+### 2. 上下文学习+Prompt工程
 
 *即通过提示词来激发模型的推理能力*。
 
-- **In-Context Learning**：模型无需再训练，只靠“示范案例”或提示词就能激发推理能力。
+- **上下文学习In-Context Learning**：模型无需再训练，只靠“示范案例”或提示词就能激发推理能力。
 - **Prompt 工程（Prompt Engineering）**：通过精心设计输入提示，让模型自动生成合理推理过程。
 
 最典型的就是COT方法，即在问题的后面加上一句 “Let’s think step by step.” 就可以引导模型一步一步的思考。这说明了**不训练模型，只调整提示，也可以激发强推理能力。**
