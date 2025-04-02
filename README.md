@@ -51,7 +51,7 @@ MLLM 首先需要具备接收和理解图像等非语言模态信息的能力，
 
 [1. 有监督学习](report.md#1-有监督学习通过教它怎么推理来提升能力)
 
-[2. 上下文学习+Prompt工程](report.md#2-上下文学习+prompt工程)
+[2. 上下文学习+Prompt工程](report.md#2-上下文学习prompt工程)
 
 [3. 外部工具协作](report.md#3-外部工具协作tool-augmented-reasoning)
 
